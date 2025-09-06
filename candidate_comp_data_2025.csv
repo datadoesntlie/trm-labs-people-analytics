@@ -1,0 +1,730 @@
+Role Name,Date,Candidate Name + GH URL,High Potential?,Location,Tech/Non-Tech/Quota Carrying,Geo Factor,Comp Type,Current Level,$ Base Comp,Final Pay Band,TRM Level,TRM Cash
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-06,Candidate 1,No,United States,Tech,1.0,Current Comp,L4 (Senior),140000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Lead Solutions Architect,2025-01-06,Candidate 2,Yes,United States,Non-tech,1.0,Current Comp,L5 (Staff),225000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+Lead Solutions Architect,2025-01-07,Candidate 3,Yes,United States,Tech,1.0,Expected,L5 (Staff),275000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-08,Candidate 4,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),110000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-08,Candidate 5,No,United States,Tech,1.0,Expected,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Lead Solutions Architect,2025-01-08,Candidate 6,Yes,United States,Tech,1.0,Current Comp,M4 (Manager),230000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,143154.0
+Lead Solutions Architect,2025-01-09,Candidate 7,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),220000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Forward Deployed Engineer - US National Security,2025-01-20,Candidate 8,Yes,United States,Tech,1.0,Expected,L3 (Mid),110000,Product - Engineering - Forward Deployed Engineering - IC,L4,229984.32
+Forward Deployed Engineer - US National Security,2025-01-10,Candidate 9,No,United States,Tech,1.0,Expected,L4 (Senior),DNP,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+Forward Deployed Engineer - US National Security,2025-01-10,Candidate 10,Yes,United States,Tech,1.0,Expected,L3 (Mid),200000,Product - Engineering - Forward Deployed Engineering - IC,L4,229984.32
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-10,Candidate 11,Yes,United States,Tech,1.0,Expected,L4 (Senior),280000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-14,Candidate 12,,Brazil,Tech,0.597,Expected,L4 (Senior),72000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-15,Candidate 13,Yes,Brazil,Tech,0.597,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Data Scientist, Analytics | Advanced Analytics",2025-01-15,Candidate 14,No,United States,Tech,1.0,Current Comp,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Lead Solutions Architect,2025-01-17,Candidate 15,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),205000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Lead Solutions Architect,2025-01-17,Candidate 16,Yes,United States,Non-tech,1.0,Current Comp,L5 (Staff),250000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+"Senior Software Engineer, Core Data Ingestion (LATAM)",2025-01-20,Candidate 17,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),37000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-20,Candidate 18,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-20,Candidate 19,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),96000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Core Data Ingestion (LATAM)",2025-01-20,Candidate 20,No,Brazil,Tech,0.597,Expected,L4 (Senior),72000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Core Data Ingestion (LATAM)",2025-01-20,Candidate 21,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),78000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-20,Candidate 22,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),108000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-20,Candidate 23,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),96000,Product - Engineering - Software Engineering - IC,L4,132069.53
+Lead Solutions Architect,2025-01-21,Candidate 24,Yes,United States,Non-tech,1.0,Expected,L5 (Staff),230000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+,2025-01-21,Candidate 25,Yes,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-01-21,Candidate 26,Yes,United States,Tech,1.0,Expected,L5 (Staff),270000,Product - Engineering - Forward Deployed Engineering - IC,L4,312237.12
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-21,Candidate 27,Yes,United States,Tech,1.0,Expected,L5 (Staff),DND,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-21,Candidate 28,No,United States,Tech,1.0,Expected,L5 (Staff),DND,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Senior Software Engineer, Frontend | Product Engineering",2025-01-22,Candidate 29,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),110000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-22,Candidate 30,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-22,Candidate 31,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),240000,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-22,Candidate 32,No,United States,Tech,1.0,Expected,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-22,Candidate 33,No,United States,Tech,1.0,Expected,L4 (Senior),204000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-23,Candidate 34,Yes,Brazil,Tech,0.597,Expected,L3 (Mid),108000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-23,Candidate 35,No,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+Lead Solutions Architect,2025-01-23,Candidate 36,No,United States,Tech,1.0,Current Comp,L4 (Senior),220000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Lead Solutions Architect,2025-01-23,Candidate 37,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),220000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-06,Candidate 38,No,United States,Tech,1.0,Current Comp,L4 (Senior),140000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Lead Solutions Architect,2025-01-06,Candidate 39,Yes,United States,Non-tech,1.0,Current Comp,L5 (Staff),225000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+Lead Solutions Architect,2025-01-07,Candidate 40,Yes,United States,Tech,1.0,Expected,L5 (Staff),275000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-08,Candidate 41,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),110000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-08,Candidate 42,No,United States,Tech,1.0,Expected,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Lead Solutions Architect,2025-01-08,Candidate 43,Yes,United States,Tech,1.0,Current Comp,M4 (Manager),230000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,143154.0
+Lead Solutions Architect,2025-01-09,Candidate 44,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),220000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Forward Deployed Engineer - US National Security,2025-01-20,Candidate 45,Yes,United States,Tech,1.0,Expected,L3 (Mid),110000,Product - Engineering - Forward Deployed Engineering - IC,L4,229984.32
+Forward Deployed Engineer - US National Security,2025-01-10,Candidate 46,No,United States,Tech,1.0,Expected,L4 (Senior),DNP,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+Forward Deployed Engineer - US National Security,2025-01-10,Candidate 47,Yes,United States,Tech,1.0,Expected,L3 (Mid),200000,Product - Engineering - Forward Deployed Engineering - IC,L4,229984.32
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-10,Candidate 48,Yes,United States,Tech,1.0,Expected,L4 (Senior),280000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-14,Candidate 49,,Brazil,Tech,0.597,Expected,L4 (Senior),72000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Data Scientist, Analytics | Advanced Analytics",2025-01-15,Candidate 50,No,United States,Tech,1.0,Current Comp,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Lead Solutions Architect,2025-01-17,Candidate 51,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),205000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Lead Solutions Architect,2025-01-17,Candidate 52,Yes,United States,Non-tech,1.0,Current Comp,L5 (Staff),250000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+"Senior Software Engineer, Core Data Ingestion (LATAM)",2025-01-20,Candidate 53,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),37000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-20,Candidate 54,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-20,Candidate 55,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),96000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Core Data Ingestion (LATAM)",2025-01-20,Candidate 56,No,Brazil,Tech,0.597,Expected,L4 (Senior),72000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Core Data Ingestion (LATAM)",2025-01-20,Candidate 57,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),78000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-20,Candidate 58,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),108000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-20,Candidate 59,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),96000,Product - Engineering - Software Engineering - IC,L4,132069.53
+Lead Solutions Architect,2025-01-21,Candidate 60,Yes,United States,Non-tech,1.0,Expected,L5 (Staff),230000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+,2025-01-21,Candidate 61,Yes,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-01-21,Candidate 62,Yes,United States,Tech,1.0,Expected,L5 (Staff),270000,Product - Engineering - Forward Deployed Engineering - IC,L4,312237.12
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-21,Candidate 63,Yes,United States,Tech,1.0,Expected,L5 (Staff),DND,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-21,Candidate 64,No,United States,Tech,1.0,Expected,L5 (Staff),DND,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Senior Software Engineer, Frontend | Product Engineering",2025-01-22,Candidate 65,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),110000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-22,Candidate 66,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-22,Candidate 67,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),240000,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-22,Candidate 68,No,United States,Tech,1.0,Expected,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-22,Candidate 69,No,United States,Tech,1.0,Expected,L4 (Senior),204000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior or Staff Software Engineer - Graph Analytics,2025-01-24,Candidate 70,No,United States,Tech,1.0,Expected,L5 (Staff),250000,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-27,Candidate 71,Yes,Argentina,Tech,0.503,Current Comp,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L4,111274.67
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-27,Candidate 72,Yes,Brazil,Tech,0.597,Expected,L3 (Mid),78000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-27,Candidate 73,No,Brazil,Tech,0.597,Expected,L3 (Mid),130000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-28,Candidate 74,No,United States,Tech,1.0,Expected,L4 (Senior),205000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-01-28,Candidate 75,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),236000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-01-28,Candidate 76,Yes,United States,Tech,1.0,TRM Pay Band,L4 (Senior),240000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+Forward Deployed Engineer - US National Security,2025-01-28,Candidate 77,No,United States,Tech,1.0,Expected,L4 (Senior),DND,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-29,Candidate 78,No,United States,Tech,1.0,Expected,L4 (Senior),DND,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Database Infrastructure",2025-01-30,Candidate 79,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),190000,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Senior or Staff Software Engineer, Database Infrastructure",2025-01-30,Candidate 80,Yes,United States,Tech,1.0,Expected,L5 (Staff),310000,Product - Engineering - Software Engineering - IC,L5,265000.0
+Senior or Staff Software Engineer - Graph Analytics,2025-01-30,Candidate 81,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-30,Candidate 82,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),DND,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-01-30,Candidate 83,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Database Infrastructure",2025-01-31,Candidate 84,Yes,United States,Tech,1.0,Expected,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-01-31,Candidate 85,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),295000,Product - Engineering - Forward Deployed Engineering - IC,L4,312237.12
+Forward Deployed Engineer - US National Security,2025-01-31,Candidate 86,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),280000,Product - Engineering - Forward Deployed Engineering - IC,L4,312237.12
+Head of Strategic Finance,2025-02-03,Candidate 87,Yes,United States,Non-tech,1.0,Expected,M4 (Manager),275000,Operations - Finance - FP&A - Mgmt,M4,225000.0
+Forward Deployed Engineer - US National Security,2025-02-03,Candidate 88,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),285000,Product - Engineering - Forward Deployed Engineering - IC,L4,312237.12
+"Senior or Staff Software Engineer, Database Infrastructure",2025-02-04,Candidate 89,No,United States,Tech,1.0,Expected,L4 (Senior),225000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-02-05,Candidate 90,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),320000,Product - Engineering - Forward Deployed Engineering - IC,L4,312237.12
+Lead Solutions Architect,2025-02-05,Candidate 91,Yes,United States,Non-tech,1.0,Expected,L4 (Senior),230000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+"Senior Software Engineer, Core Data Ingestion (LATAM)",2025-02-07,Candidate 92,Yes,Brazil,Tech,0.597,Current Comp,L3 (Mid),54000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-02-10,Candidate 93,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Lead Solutions Architect,2025-02-10,Candidate 94,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),300000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Lead Solutions Architect,2025-02-10,Candidate 95,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),185000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Lead Solutions Architect,2025-02-07,Candidate 96,No,United States,Non-tech,1.0,Current Comp,L4 (Senior),,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-02-11,Candidate 97,No,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Database Infrastructure",2025-02-12,Candidate 98,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),235000,Product - Engineering - Software Engineering - IC,L5,265000.0
+Senior or Staff Software Engineer - Graph Analytics,2025-02-12,Candidate 99,Yes,United States,Tech,1.0,TRM Pay Band,L4 (Senior),215000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Data Product",2025-02-12,Candidate 100,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),242000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior or Staff Software Engineer - Graph Analytics,2025-02-12,Candidate 101,Yes,United States,Tech,1.0,Expected,L4 (Senior),205000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior or Staff Software Engineer - Graph Analytics,2025-02-12,Candidate 102,Yes,United States,Tech,1.0,TRM Pay Band,L4 (Senior),215000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior or Staff Software Engineer, Data Platform (LATAM)",2025-02-12,Candidate 103,Yes,United States,Tech,1.0,Expected,L4 (Senior),225000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior or Staff Software Engineer - Graph Analytics,,Candidate 104,Yes,United States,Tech,1.0,Expected,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-02-12,Candidate 105,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),260000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+Head of Strategic Finance,,Candidate 106,Yes,United States,Non-tech,1.0,Expected,M5 (Director),170000,Operations - Finance - FP&A - Mgmt,M4,250000.0
+AI Engineer,2025-02-20,Candidate 107,Yes,United States,Tech,1.0,Expected,L5 (Staff),262000,Product - Engineering - Machine Learning Engineering - IC,L4,257600.7
+Lead Solutions Architect,2025-02-20,Candidate 108,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),175000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Forward Deployed Engineer - US National Security,2025-02-18,Candidate 109,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),230000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+Lead Solutions Architect,2025-02-18,Candidate 110,No,United States,Non-tech,1.0,Current Comp,L4 (Senior),DND,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Lead Solutions Architect,2025-02-20,Candidate 111,No,United States,Tech,1.0,Current Comp,L4 (Senior),210000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Head of Strategic Finance,2025-02-21,Candidate 112,Yes,United States,Non-tech,1.0,Expected,M5 (Director),240000,Operations - Finance - FP&A - Mgmt,M4,250000.0
+Lead Solutions Architect,2025-02-24,Candidate 113,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),220000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+AI Engineer,2025-02-25,Candidate 114,Yes,Germany,Tech,0.819,Expected,L4 (Senior),150000,Product - Engineering - Machine Learning Engineering - IC,L4,189967.62
+Forward Deployed Engineer - US National Security,2025-02-25,Candidate 115,No,United States,Tech,1.0,Current Comp,L3 (Mid),200000,Product - Engineering - Forward Deployed Engineering - IC,L4,229984.32
+Forward Deployed Engineer - US National Security,2025-02-25,Candidate 116,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),260000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+Lead Solutions Architect,2025-02-26,Candidate 117,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),230000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-02-26,Candidate 118,No,United States,Tech,1.0,Current Comp,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-02-27,Candidate 119,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),290000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+Forward Deployed Engineer - US National Security,2025-02-27,Candidate 120,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),270000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+Lead Solutions Architect,2025-02-28,Candidate 121,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),208000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Forward Deployed Engineer - US National Security,2025-02-28,Candidate 122,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),250000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-02-28,Candidate 123,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+AI Engineer,2025-03-03,Candidate 124,Yes,Austria,Tech,0.8,Expected,L4 (Senior),220000,Product - Engineering - Machine Learning Engineering - IC,L4,185560.56
+Lead Solutions Architect,2025-03-04,Candidate 125,No,United States,Non-tech,1.0,Current Comp,L4 (Senior),260000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+"Software Engineer, Infrastructure",2025-03-04,Candidate 126,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Infrastructure",2025-03-05,Candidate 127,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Lead Solutions Architect,2025-03-06,Candidate 128,No,United States,Non-tech,1.0,Current Comp,L5 (Staff),200000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+AI Engineer,2025-03-10,Candidate 129,,India,Tech,0.5,Expected,L4 (Senior),150000,Product - Engineering - Machine Learning Engineering - IC,L4,115975.35
+Forward Deployed Engineer - US National Security,2025-03-10,Candidate 130,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),270000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+"Software Engineer, Infrastructure",2025-03-10,Candidate 131,No,United States,Tech,1.0,Current Comp,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-03-11,Candidate 132,Yes,United States,Tech,1.0,TRM Pay Band,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-03-11,Candidate 133,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),100000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-03-11,Candidate 134,No,Argentina,Tech,0.503,Expected,L3 (Mid),72000,Product - Engineering - Software Engineering - IC,L4,95570.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-03-11,Candidate 135,No,United States,Tech,1.0,Expected,L3 (Mid),130000,Product - Engineering - Software Engineering - IC,L4,190000.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-03-10,Candidate 136,Yes,United States,Tech,1.0,Expected,L3 (Mid),180000,Product - Engineering - Software Engineering - IC,L3,190000.0
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-03-10,Candidate 137,Yes,Spain,Tech,0.75,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,165916.5
+"Senior or Staff Software Engineer, Blockchain Infrastructure | Core Data Ingestion",2025-03-13,Candidate 138,No,France,Tech,0.835,Expected,L4 (Senior),165000,Product - Engineering - Software Engineering - IC,L4,184720.37
+Forward Deployed Engineer - US National Security,2025-03-13,Candidate 139,No,United States,Tech,1.0,Expected,L4 (Senior),265000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+AI Manager,2025-03-14,Candidate 140,Yes,United States,Tech,1.0,Expected,M4 (Manager),320000,Product - Engineering - Machine Learning Engineering - Mgmt,M4,290450.0
+Lead Solutions Architect,2025-03-14,Candidate 141,No,United States,Non-tech,1.0,Current Comp,M3 (Team Lead),195000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,129525.0
+Revops Order Management Specialist,2025-03-17,Candidate 142,Yes,United States,Non-tech,1.0,Current Comp,L5 (Staff),220000,GTM - Solutions Engineering - Solutions Engineering - IC,L5,202538.0
+Forward Deployed Engineer - US National Security,2025-03-17,Candidate 143,No,United States,Tech,1.0,Expected,L3 (Mid),160000,Product - Engineering - Forward Deployed Engineering - IC,L4,229984.32
+Forward Deployed Engineer - US National Security,2025-03-17,Candidate 144,No,United States,Tech,1.0,Current Comp,L4 (Senior),200000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+AI Manager,2025-03-18,Candidate 145,Yes,United States,Tech,1.0,Expected,M4 (Manager),DNS,Product - Engineering - Machine Learning Engineering - Mgmt,M4,290450.0
+Enterprise IT Security Team Lead,2025-03-18,Candidate 146,Yes,United States,Tech,1.0,Current Comp,M5 (Director),350000,Product - Security - Security Engineering - Mgmt,L4,294600.0
+Forward Deployed Engineer - US National Security,2025-03-18,Candidate 147,Yes,United States,Tech,1.0,Expected,L3 (Mid),200000,Product - Engineering - Forward Deployed Engineering - IC,L4,229984.32
+Forward Deployed Engineer - US National Security,2025-03-19,Candidate 148,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+"Software Engineer, Infrastructure",2025-03-20,Candidate 149,Yes,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Infrastructure",2025-03-25,Candidate 150,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Strategic Finance,2025-03-25,Candidate 151,Yes,United States,Non-tech,1.0,Current Comp,M4 (Manager),260000,Operations - Finance - FP&A - Mgmt,M4,225000.0
+Head of Strategic Finance,2025-03-25,Candidate 152,Yes,United States,Non-tech,1.0,Current Comp,M4 (Manager),250000,Operations - Finance - FP&A - Mgmt,M4,225000.0
+Head of Strategic Finance,2025-03-25,Candidate 153,Yes,United States,Non-tech,1.0,Current Comp,M4 (Manager),260000,Operations - Finance - FP&A - Mgmt,M4,225000.0
+AI Engineer,2025-03-27,Candidate 154,No,United States,Tech,1.0,TRM Pay Band,L3 (Mid),180000,Product - Engineering - Machine Learning Engineering - IC,L4,209000.7
+AI Engineer,2025-03-26,Candidate 155,Yes,United States,Tech,1.0,Expected,L4 (Senior),210000,Product - Engineering - Machine Learning Engineering - IC,L4,231950.7
+AI Engineer,2025-03-27,Candidate 156,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Machine Learning Engineering - IC,L4,231950.7
+"Software Engineer, Infrastructure",2025-03-28,Candidate 157,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Infrastructure",2025-03-28,Candidate 158,No,United States,Tech,1.0,Current Comp,L4 (Senior),DND,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Strategic Finance,2025-04-03,Candidate 159,Yes,United States,Non-tech,1.0,Expected,M4 (Manager),325000,Operations - Finance - FP&A - Mgmt,M4,225000.0
+Head of Strategic Finance,2025-04-03,Candidate 160,Yes,United States,Non-tech,1.0,Expected,M4 (Manager),225000,Operations - Finance - FP&A - Mgmt,M4,225000.0
+Senior Compliance Engineer,2025-04-10,Candidate 161,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Security - Security Engineering - IC,L4,234153.25
+"Data Science Manager, Attribution",2025-04-14,Candidate 162,Yes,United States,Tech,1.0,Expected,M4 Veteran (Sr. Manager),,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 163,,United States,Tech,1.0,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Data Product (US)",2025-04-11,Candidate 164,,United States,Tech,1.0,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Software Engineer, Data Product (US)",,Candidate 165,,United States,Tech,1.0,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-03-17,Candidate 166,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 167,No,United States,Tech,1.0,Expected,L4 (Senior),240000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior MLOps Engineer,2025-04-04,Candidate 168,Yes,Argentina,Tech,0.503,Expected,L6 (Principal),120000,Product - Engineering - Software Engineering - IC,L5,160960.0
+"Senior Software Engineer, Data Product (LATAM)",2025-04-15,Candidate 169,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-04-14,Candidate 170,No,United States,Tech,1.0,Expected,L4 (Senior),250000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Product Engineering,2025-03-24,Candidate 171,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - Mgmt,M5,330000.0
+"Senior Software Engineer, Data Platform (US / US PERM)",,Candidate 172,Yes,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior or Staff Software Engineer - Graph Analytics,,Candidate 173,No,United States,Tech,1.0,Expected,L6 (Principal),230000,Product - Engineering - Software Engineering - IC,L5,320000.0
+"Senior Software Engineer, Data Product (LATAM)",2025-03-28,Candidate 174,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Data Science Manager, Attribution",2025-04-14,Candidate 175,Yes,United States,Tech,1.0,Expected,M4 (Manager),,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+"Software Engineer, Data Platform – US",,Candidate 176,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-04-04,Candidate 177,No,United States,Tech,1.0,Expected,L3 (Mid),160000,Product - Engineering - Software Engineering - IC,,190000.0
+"Data Science Manager, Attribution",2025-04-09,Candidate 178,Yes,United States,Tech,1.0,Expected,M4 (Manager),300000,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-04-14,Candidate 179,No,Brazil,Tech,0.597,Expected,L3 (Mid),85000,Product - Engineering - Software Engineering - IC,,113430.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-04-16,Candidate 180,No,United States,Tech,1.0,Expected,L5 (Staff),210000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Software Engineer, Data Product (US)",2025-04-04,Candidate 181,No,United States,Tech,1.0,Expected,L3 (Mid),,Product - Engineering - Software Engineering - IC,L3,190000.0
+"Software Engineer, Data Platform – US",2024-10-09,Candidate 182,No,United States,Tech,1.0,Expected,L3 (Mid),220000,Product - Engineering - Software Engineering - IC,L5,190000.0
+AI Engineer,2025-03-27,Candidate 183,Yes,Canada,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Machine Learning Engineering - IC,L4,231950.7
+Senior or Staff Software Engineer - Graph Analytics,,Candidate 184,No,United States,Tech,1.0,Expected,L4 (Senior),240000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-03-05,Candidate 185,No,United States,Tech,1.0,Expected,L4 (Senior),225000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Data Science Manager, Attribution",2025-04-09,Candidate 186,Yes,Poland,Tech,0.686,Expected,M4 (Manager),250000,Product - Engineering - Machine Learning Engineering - IC,L4,128556.88
+"Senior Software Engineer, Data Infrastructure (RDBMS)",,Candidate 187,,United States,Tech,1.0,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Staff Software Engineer, Data Platform (US)",2025-04-09,Candidate 188,No,United States,Tech,1.0,Expected,L5 (Staff),250000,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Data Science Manager, Attribution",2025-04-09,Candidate 189,Yes,United States,Tech,1.0,Expected,L5 (Staff),,Product - Engineering - Machine Learning Engineering - IC,M4,257600.7
+"Senior or Staff Software Engineer, SIGINT",2025-04-18,Candidate 190,No,United States,Tech,1.0,,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-04-14,Candidate 191,No,United States,Tech,1.0,Expected,L5 (Staff),250000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Data Science Manager, Attribution",2025-04-15,Candidate 192,No,United States,Tech,1.0,Expected,M4 (Manager),280000,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-04-16,Candidate 193,No,United States,Tech,1.0,Current Comp,L6 (Principal),200000,Product - Engineering - Software Engineering - IC,L4,320000.0
+"Data Science Manager, Attribution",,Candidate 194,No,United States,Tech,1.0,Expected,L4 (Senior),175000,Product - Engineering - Machine Learning Engineering - IC,M4,231950.7
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-04-15,Candidate 195,No,United States,Tech,1.0,Expected,L6 (Principal),200000,Product - Engineering - Software Engineering - IC,L4,320000.0
+Senior or Staff Software Engineer - Graph Analytics,,Candidate 196,No,United States,Tech,1.0,Expected,L4 (Senior),240000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-04-03,Candidate 197,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Platform (US / US PERM)",,Candidate 198,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Data Platform – US",,Candidate 199,Yes,United States,Tech,1.0,Offer,L4 (Senior),195000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Data Science Manager, Attribution",2025-04-18,Candidate 200,Yes,United States,Tech,1.0,Expected,M5 (Director),300000,Product - Engineering - Machine Learning Engineering - IC,M4,209000.7
+"Data Science Manager, Attribution",2025-04-21,Candidate 201,Yes,United States,Tech,1.0,Expected,M3 (Team Lead),290000,Product - Engineering - Machine Learning Engineering - IC,M4,161210.7
+Senior MLOps Engineer,2025-03-20,Candidate 202,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L5,132069.53
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-04-17,Candidate 203,No,United States,Tech,1.0,Expected,L4 (Senior),255000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-04-04,Candidate 204,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L5,221222.0
+Senior MLOps Engineer,2025-04-17,Candidate 205,No,United States,Tech,1.0,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Software Engineer, Data Platform – US",2025-04-14,Candidate 206,Yes,United States,Tech,1.0,Expected,L4 (Senior),190000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-04-21,Candidate 207,No,United States,Tech,1.0,Expected,L3 (Mid),100000,Product - Engineering - Software Engineering - IC,L5,190000.0
+"Senior Software Engineer, Data Product (LATAM)",2025-04-10,Candidate 208,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Product (LATAM)",2025-03-18,Candidate 209,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-04-03,Candidate 210,,United States,Tech,1.0,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-04-15,Candidate 211,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-04-16,Candidate 212,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Data Platform – US",2025-03-24,Candidate 213,No,United States,Tech,1.0,Expected,L3 (Mid),220000,Product - Engineering - Software Engineering - IC,L5,190000.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-04-14,Candidate 214,No,Brazil,Tech,0.597,Expected,L3 (Mid),120000,Product - Engineering - Software Engineering - IC,,113430.0
+"Data Science Manager, Attribution",2025-04-18,Candidate 215,No,United States,Tech,1.0,Expected,M4 Veteran (Sr. Manager),315000,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+"Software Engineer, Data Platform – US",2025-04-14,Candidate 216,No,United States,Tech,1.0,Expected,L3 (Mid),200000,Product - Engineering - Software Engineering - IC,L5,190000.0
+"Senior Software Engineer, Data Platform (US / US PERM)",,Candidate 217,No,United States,Tech,1.0,Expected,L5 (Staff),250000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-04-07,Candidate 218,No,United States,Tech,1.0,Expected,L6 (Principal),250000,Product - Engineering - Software Engineering - IC,L4,320000.0
+"Senior Software Engineer, Data Platform (US / US PERM)",,Candidate 219,,United States,Tech,1.0,,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-03-19,Candidate 220,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),160000,Product - Engineering - Software Engineering - IC,,132069.53
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-04-17,Candidate 221,No,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Data Science Manager, Attribution",2025-04-18,Candidate 222,No,United States,Tech,1.0,Expected,M4 Veteran (Sr. Manager),310000,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+Forward Deployed Engineer - US National Security,2025-04-30,Candidate 223,No,United States,Tech,1.0,Expected,L4 (Senior),210000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+AI Engineer,2025-03-19,Candidate 224,Yes,Brazil,Tech,0.597,Expected,M4 (Manager),120000,Product - Engineering - Machine Learning Engineering - IC,L4,111878.22
+Senior or Staff Software Engineer - Graph Analytics,2025-04-04,Candidate 225,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),190000,Product - Engineering - Software Engineering - IC,L5,132069.53
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-04-22,Candidate 226,No,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior MLOps Engineer,2025-03-24,Candidate 227,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,132069.53
+Head of Product Engineering,2025-04-25,Candidate 228,No,United States,Tech,1.0,Expected,M4 (Manager),290000,Product - Engineering - Software Engineering - Mgmt,M5,250000.0
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 229,,United States,Tech,1.0,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-04-16,Candidate 230,No,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (LATAM)",,Candidate 231,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Senior or Staff Software Engineer - Graph Analytics,2025-04-30,Candidate 232,No,United States,Tech,1.0,Expected,L6 (Principal),250000,Product - Engineering - Software Engineering - IC,L5,320000.0
+Lead Solutions Architect,2025-03-06,Candidate 233,Yes,United States,Non-tech,1.0,Current Comp,L4 (Senior),,GTM - Solutions Engineering - Solutions Engineering - IC,L5,180147.0
+Head of Product Engineering,2025-04-29,Candidate 234,Yes,United States,Tech,1.0,Expected,M4 (Manager),300000,Product - Engineering - Software Engineering - Mgmt,M5,250000.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-04-29,Candidate 235,No,United States,Tech,1.0,,L3 (Mid),,Product - Engineering - Software Engineering - IC,,190000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-04-03,Candidate 236,Yes,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-04-23,Candidate 237,No,United States,Tech,1.0,Current Comp,L5 (Staff),270000,Product - Engineering - Software Engineering - IC,L4,265000.0
+Head of Product Engineering,2025-04-25,Candidate 238,Yes,United States,Tech,1.0,Expected,M5 (Director),290000,Product - Engineering - Software Engineering - Mgmt,M5,290000.0
+Head of Product Engineering,2025-04-21,Candidate 239,Yes,United States,Tech,1.0,Expected,M4 (Manager),250000,Product - Engineering - Software Engineering - Mgmt,M5,250000.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-03,Candidate 240,,,Tech,,,,,Product - Engineering - Software Engineering - IC,,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-04-29,Candidate 241,No,United States,Tech,1.0,Expected,L4 (Senior),190000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Product Engineering,2025-05-02,Candidate 242,Yes,United States,Tech,1.0,Expected,M5 (Director),,Product - Engineering - Software Engineering - Mgmt,M5,290000.0
+"Software Engineer, Data Platform – US",2025-04-15,Candidate 243,Yes,United States,Tech,1.0,Expected,L3 (Mid),190000,Product - Engineering - Software Engineering - IC,L5,190000.0
+"Senior Software Engineer, Infrastructure",2025-05-05,Candidate 244,No,United States,Tech,1.0,Current Comp,L4 (Senior),265000,Product - Engineering - Software Engineering - Mgmt,L4,330000.0
+"Software Engineer, Data Platform – US",2025-04-14,Candidate 245,No,United States,Tech,1.0,Expected,L3 (Mid),190000,Product - Engineering - Software Engineering - IC,L5,190000.0
+"Staff Software Engineer, Data Platform (US)",2025-04-30,Candidate 246,No,United States,Tech,1.0,Expected,L4 (Senior),250000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-05,Candidate 247,No,Brazil,Tech,0.597,,L3 (Mid),,Product - Engineering - Software Engineering - IC,,113430.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-04-22,Candidate 248,No,Brazil,Tech,0.597,Expected,L3 (Mid),80000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Staff Software Engineer, Data Product (US / US PERM)",2025-04-16,Candidate 249,No,Brazil,Tech,0.597,Expected,L5 (Staff),,Product - Engineering - Software Engineering - IC,L5,158205.0
+Head of Product Engineering,2025-05-06,Candidate 250,Yes,United States,Tech,1.0,Expected,M5 (Director),250000,Product - Engineering - Software Engineering - Mgmt,M5,290000.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-05-05,Candidate 251,No,Brazil,Tech,0.597,Expected,L3 (Mid),,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-05-06,Candidate 252,Yes,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L5,221222.0
+Head of Product Engineering,2025-05-06,Candidate 253,Yes,United States,Tech,1.0,,M5 (Director),,Product - Engineering - Software Engineering - Mgmt,M5,290000.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-06,Candidate 254,No,United States,Tech,1.0,Expected,L4 (Senior),240000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Backend | Product Engineering (LATAM)",2025-01-14,Candidate 255,,,Tech,,,,,Product - Engineering - Software Engineering - IC,,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-02-10,Candidate 256,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-04-21,Candidate 257,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Infrastructure",2025-05-07,Candidate 258,No,United States,Tech,1.0,Current Comp,L4 (Senior),190000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Platform (US / US PERM)",,Candidate 259,No,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Product Engineering,2025-05-06,Candidate 260,No,United States,Tech,1.0,Expected,M4 (Manager),290000,Product - Engineering - Software Engineering - Mgmt,M5,250000.0
+Counsel | Legal,2025-04-30,Candidate 261,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,L4,0.0
+"Staff Software Engineer, Data Platform (US)",2025-04-03,Candidate 262,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),270000,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Data Science Manager, Attribution",2025-04-30,Candidate 263,No,United States,Tech,1.0,Expected,M4 Veteran (Sr. Manager),250000,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+"Senior Software Engineer, Data Product (LATAM)",2025-05-02,Candidate 264,No,Argentina,Tech,0.503,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,111274.67
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-05-08,Candidate 265,No,United States,Tech,1.0,Expected,L3 (Mid),,Product - Engineering - Software Engineering - IC,L5,190000.0
+"Senior Software Engineer, Data Product (LATAM)",2025-04-30,Candidate 266,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+Forward Deployed Data Engineer (TS/SCI),,Candidate 267,No,United States,Tech,1.0,Current Comp,L4 (Senior),241000,Product - Engineering - Forward Deployed Engineering - IC,L5,265465.92
+"Senior Software Engineer, Data Platform (US / US PERM)",,Candidate 268,No,United States,Tech,1.0,Expected,L5 (Staff),250000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-05-05,Candidate 269,No,United States,Tech,1.0,Expected,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-05-12,Candidate 270,No,United States,Tech,1.0,Expected,L4 (Senior),175000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Product Engineering,2025-04-21,Candidate 271,No,United States,Tech,1.0,Expected,M4 (Manager),250000,Product - Engineering - Software Engineering - Mgmt,M5,250000.0
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 272,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 273,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-05-07,Candidate 274,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-04-14,Candidate 275,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-04-25,Candidate 276,No,United States,Tech,1.0,Current Comp,L5 (Staff),210000,Product - Engineering - Software Engineering - IC,L4,265000.0
+Head of Product Engineering,2025-04-16,Candidate 277,Yes,United States,Tech,1.0,Expected,M5 (Director),300000,Product - Engineering - Software Engineering - Mgmt,L4,290000.0
+"Senior Software Engineer, Infrastructure",2025-05-13,Candidate 278,No,United States,Tech,1.0,Expected,L4 (Senior),250000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior MLOps Engineer,2025-03-11,Candidate 279,,Brazil,Tech,0.597,Expected,L5 (Staff),,Product - Engineering - Software Engineering - IC,L5,158205.0
+"Account Director, EMEA Private Sector",2025-05-14,Candidate 280,No,United Kingdom,Tech,0.961,Current Comp,L3 (Mid),106403,Product - Engineering - Software Engineering - Mgmt,L5,278690.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-04-30,Candidate 281,Yes,United States,Tech,1.0,Expected,L5 (Staff),280000,Product - Engineering - Software Engineering - IC,L4,265000.0
+Head of Product Engineering,2025-05-14,Candidate 282,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-05,Candidate 283,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-05-13,Candidate 284,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-06,Candidate 285,Yes,United States,Tech,1.0,Expected,L3 (Mid),150000,Product - Engineering - Software Engineering - IC,,190000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-04-16,Candidate 286,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-09,Candidate 287,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Data Science Manager, Attribution",2025-04-18,Candidate 288,Yes,United States,Tech,1.0,Expected,M4 (Manager),300000,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-01,Candidate 289,No,United States,Tech,1.0,Expected,L3 (Mid),180000,Product - Engineering - Software Engineering - IC,,190000.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",,Candidate 290,Yes,United States,Tech,1.0,Expected,L4 (Senior),190000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-05-14,Candidate 291,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-05-14,Candidate 292,Yes,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L5,221222.0
+Senior MLOps Engineer,2025-05-05,Candidate 293,Yes,United Kingdom,Tech,0.961,Expected,L6 (Principal),,Product - Engineering - Software Engineering - IC,L5,307520.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-04-30,Candidate 294,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-04-25,Candidate 295,Yes,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-04-22,Candidate 296,Yes,United States,Tech,1.0,Expected,L5 (Staff),205000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-04-30,Candidate 297,No,Ecuador,Tech,0.406,Expected,L3 (Mid),150000,Product - Engineering - Software Engineering - IC,L4,77140.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-08,Candidate 298,No,United States,Tech,1.0,Expected,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-05-14,Candidate 299,Yes,Brazil,Tech,0.597,Expected,L3 (Mid),120000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-19,Candidate 300,No,United States,Tech,1.0,Expected,L5 (Staff),210000,Product - Engineering - Software Engineering - IC,L4,265000.0
+Software Engineer | Core Data Ingestion,,Candidate 301,Yes,Egypt,Tech,0.5,Offer,L3 (Mid),,Product - Engineering - Software Engineering - IC,L3,95000.0
+Senior or Staff Software Engineer - Graph Analytics,2025-05-15,Candidate 302,No,United States,Tech,1.0,Expected,L4 (Senior),250000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 303,,United States,Tech,1.0,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Senior MLOps Engineer,2025-05-12,Candidate 304,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,132069.53
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-05-21,Candidate 305,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,L5,0.0
+Senior MLOps Engineer,2025-05-06,Candidate 306,No,Brazil,Tech,0.597,Current Comp,L3 (Mid),50000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-19,Candidate 307,,,Tech,,,,,Product - Engineering - Software Engineering - IC,,0.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-21,Candidate 308,,,Tech,,,,,Product - Engineering - Software Engineering - IC,,0.0
+Head of Product Engineering,2025-05-14,Candidate 309,Yes,United States,Tech,1.0,Expected,M4 (Manager),290000,Product - Engineering - Software Engineering - Mgmt,M5,250000.0
+"Senior Software Engineer, Infrastructure",2025-05-20,Candidate 310,No,United States,Tech,1.0,,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Staff Software Engineer, Data Product (US / US PERM)",2025-05-21,Candidate 311,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-01,Candidate 312,Yes,United States,Tech,1.0,Expected,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Data Engineer (TS/SCI),2025-05-06,Candidate 313,No,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Engineering - Forward Deployed Engineering - IC,L5,265465.92
+Senior MLOps Engineer,,Candidate 314,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-05-08,Candidate 315,Yes,United States,Tech,1.0,Expected,L5 (Staff),,Product - Engineering - Software Engineering - IC,L4,265000.0
+Forward Deployed Data Engineer (TS/SCI),2025-05-13,Candidate 316,No,Brazil,Tech,0.597,Expected,L4 (Senior),210000,Product - Engineering - Forward Deployed Engineering - IC,L5,158483.15
+People Analytics Specialist,2025-05-21,Candidate 317,No,Brazil,Tech,0.597,Expected,L2,0,Product - Engineering - Software Engineering - Mgmt,L3,149250.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-19,Candidate 318,Yes,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-22,Candidate 319,No,United States,Tech,1.0,Current Comp,L4 (Senior),160000,Product - Engineering - Software Engineering - IC,,221222.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-13,Candidate 320,Yes,United States,Tech,1.0,Expected,L4 (Senior),240000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Data Engineer (TS/SCI),2025-05-14,Candidate 321,No,United States,Tech,1.0,,L4 (Senior),,Product - Engineering - Forward Deployed Engineering - IC,L5,265465.92
+"Senior or Staff Software Engineer, SIGINT",2025-05-15,Candidate 322,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-04-17,Candidate 323,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Product (US / US PERM)",2025-04-30,Candidate 324,Yes,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-16,Candidate 325,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Senior MLOps Engineer,2025-05-15,Candidate 326,Yes,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-04-30,Candidate 327,Yes,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-22,Candidate 328,No,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior MLOps Engineer,2025-05-15,Candidate 329,Yes,United States,Tech,1.0,Expected,L4 (Senior),22000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-05-23,Candidate 330,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),140000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-13,Candidate 331,Yes,United States,Tech,1.0,Expected,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,,221222.0
+"Senior Software Engineer, Infrastructure",2025-05-12,Candidate 332,No,United States,Tech,1.0,Current Comp,L6 (Principal),260000,Product - Engineering - Software Engineering - IC,L4,320000.0
+Head of Product Engineering,2025-05-19,Candidate 333,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+Senior MLOps Engineer,2025-05-19,Candidate 334,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior or Staff Software Engineer, SIGINT",2025-05-26,Candidate 335,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior or Staff Software Engineer, SIGINT",2025-05-23,Candidate 336,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Product Engineering,2025-05-23,Candidate 337,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,L4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-05-05,Candidate 338,Yes,United States,Tech,1.0,Expected,L3 (Mid),180000,Product - Engineering - Software Engineering - IC,L3,190000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-27,Candidate 339,Yes,United States,Tech,1.0,Expected,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior MLOps Engineer,2025-05-19,Candidate 340,Yes,Canada,Tech,1.0,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior or Staff Software Engineer, SIGINT",2025-05-28,Candidate 341,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-16,Candidate 342,Yes,Brazil,Tech,0.597,Expected,L6 (Principal),250000,Product - Engineering - Software Engineering - IC,L4,191040.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-20,Candidate 343,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",,Candidate 344,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-28,Candidate 345,No,United States,Tech,1.0,Expected,L4 (Senior),175000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Data Engineer (TS/SCI),2025-05-20,Candidate 346,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Forward Deployed Engineering - IC,L5,265465.92
+"Senior Software Engineer, Data Product (LATAM)",2025-05-30,Candidate 347,No,Brazil,Tech,0.597,Expected,L4 (Senior),90000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Staff Software Engineer, Backend | Product Engineering (United States)",2025-05-22,Candidate 348,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-29,Candidate 349,Yes,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Product Engineering,2025-05-27,Candidate 350,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-02,Candidate 351,Yes,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Infrastructure",2025-05-28,Candidate 352,No,United States,Tech,1.0,,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (LATAM)",2025-05-05,Candidate 353,No,Brazil,Tech,0.597,Expected,L4 (Senior),60000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-05,Candidate 354,Yes,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior MLOps Engineer,2025-05-15,Candidate 355,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+Forward Deployed Data Engineer (TS/SCI),2025-05-26,Candidate 356,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Forward Deployed Engineering - IC,L5,265465.92
+Senior MLOps Engineer,2025-04-22,Candidate 357,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,132069.53
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-06-04,Candidate 358,No,United States,Tech,1.0,Expected,L4 (Senior),160000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Data Science Manager, Attribution",2025-05-24,Candidate 359,No,United States,Tech,1.0,Expected,M6 (VP),300000,Product - Engineering - Machine Learning Engineering - IC,M4,231950.7
+"Senior Software Engineer, Data Product (LATAM)",2025-05-28,Candidate 360,Yes,Argentina,Tech,0.503,Expected,L5 (Staff),80000,Product - Engineering - Software Engineering - IC,L4,133295.0
+Head of Product Engineering,2025-06-06,Candidate 361,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-05-22,Candidate 362,No,Brazil,Tech,0.597,Expected,L3 (Mid),72000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-19,Candidate 363,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),255000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-28,Candidate 364,No,United States,Tech,1.0,Expected,L6 (Principal),250000,Product - Engineering - Software Engineering - IC,L4,320000.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-22,Candidate 365,,,Tech,,,,,Product - Engineering - Software Engineering - IC,,0.0
+"Data Science Manager, Attribution",2025-05-23,Candidate 366,Yes,United States,Tech,1.0,Current Comp,M6 (VP),315000,Product - Engineering - Machine Learning Engineering - IC,M4,231950.7
+"Staff Software Engineer, Data Product (US / US PERM)",2025-06-10,Candidate 367,Yes,United States,Tech,1.0,Expected,L4 (Senior),250000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior or Staff Software Engineer, SIGINT",2025-05-22,Candidate 368,Yes,United States,Tech,1.0,Expected,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Infrastructure",2025-05-06,Candidate 369,No,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-05-24,Candidate 370,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Software Engineer, Data Product (US / US PERM)",2025-06-11,Candidate 371,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Software Engineer, Data Product (US / US PERM)",2025-06-11,Candidate 372,Yes,United States,Tech,1.0,Expected,L4 (Senior),160000,Product - Engineering - Software Engineering - IC,L3,221222.0
+Forward Deployed Data Engineer (TS/SCI),2025-05-29,Candidate 373,No,United States,Tech,1.0,Expected,L4 (Senior),190000,Product - Engineering - Forward Deployed Engineering - IC,L5,265465.92
+Forward Deployed Data Engineer (TS/SCI),2025-05-29,Candidate 374,No,United States,Tech,1.0,Expected,L3 (Mid),150000,Product - Engineering - Forward Deployed Engineering - IC,L5,229984.32
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-05-12,Candidate 375,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L5,221222.0
+Senior MLOps Engineer,2025-04-17,Candidate 376,Yes,Brazil,Tech,0.597,Expected,L5 (Staff),,Product - Engineering - Software Engineering - IC,L5,158205.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-06-05,Candidate 377,No,United States,Tech,1.0,Expected,L4 (Senior),185000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-05-30,Candidate 378,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L3,132069.53
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-10,Candidate 379,No,United States,Tech,1.0,Expected,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-10,Candidate 380,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Full Stack | Product Engineering (United States)",2025-05-02,Candidate 381,Yes,United States,Tech,1.0,Expected,L3 (Mid),180000,Product - Engineering - Software Engineering - IC,,190000.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-13,Candidate 382,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Software Engineer, Data Product (US / US PERM)",2025-06-11,Candidate 383,No,United States,Tech,1.0,Expected,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L3,221222.0
+"Software Engineer, Data Product (US / US PERM)",2025-06-11,Candidate 384,No,United States,Tech,1.0,Expected,L2,130000,Product - Engineering - Software Engineering - IC,L3,160000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-10,Candidate 385,No,United States,Tech,1.0,Expected,L5 (Staff),235000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Software Engineer, Data Product (LATAM)",2025-06-09,Candidate 386,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Senior Software Engineer, Data Platform (LATAM)",2025-06-16,Candidate 387,,,Tech,,,,,Product - Engineering - Software Engineering - IC,,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-06-11,Candidate 388,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-13,Candidate 389,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-06-04,Candidate 390,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 391,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-06-11,Candidate 392,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Product (LATAM)",2025-06-17,Candidate 393,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Senior MLOps Engineer,2025-06-12,Candidate 394,No,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-18,Candidate 395,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Senior MLOps Engineer,2025-06-17,Candidate 396,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-07,Candidate 397,Yes,United States,Tech,1.0,Expected,L4 (Senior),250000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 398,No,United States,Tech,1.0,Expected,L5 (Staff),210000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Software Engineer, Data Platform (LATAM)",2025-06-16,Candidate 399,,,Tech,,,,,Product - Engineering - Software Engineering - IC,,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-12,Candidate 400,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-19,Candidate 401,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-11,Candidate 402,No,United States,Tech,1.0,Expected,L3 (Mid),220000,Product - Engineering - Software Engineering - IC,L4,190000.0
+"Data Science Manager, Attribution",2025-06-20,Candidate 403,Yes,United States,Tech,1.0,Expected,M4 Veteran (Sr. Manager),330000,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-06-10,Candidate 404,No,Canada,Tech,1.0,Expected,L3 (Mid),,Product - Engineering - Software Engineering - IC,L5,190000.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-20,Candidate 405,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-23,Candidate 406,Yes,United States,Tech,1.0,Expected,L4 (Senior),125000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-06-06,Candidate 407,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-12,Candidate 408,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-05-19,Candidate 409,No,United States,Tech,1.0,Expected,L5 (Staff),215000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-18,Candidate 410,No,Brazil,Tech,0.597,Current Comp,L3 (Mid),,Product - Engineering - Software Engineering - IC,L4,113430.0
+Senior MLOps Engineer,2025-04-17,Candidate 411,Yes,Brazil,Tech,0.597,Current Comp,L5 (Staff),44000,Product - Engineering - Software Engineering - IC,L5,158205.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-16,Candidate 412,No,Brazil,Tech,0.597,Expected,L3 (Mid),,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-11,Candidate 413,Yes,United States,Tech,1.0,Expected,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-27,Candidate 414,Yes,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-12,Candidate 415,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Senior MLOps Engineer,2025-05-30,Candidate 416,Yes,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-21,Candidate 417,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),110000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Product (LATAM)",2025-06-12,Candidate 418,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Data Product (US / US PERM)",2025-06-10,Candidate 419,Yes,United States,Tech,1.0,Expected,L4 (Senior),215000,Product - Engineering - Software Engineering - IC,L3,221222.0
+Head of Product Engineering,2025-06-17,Candidate 420,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+Head of Product Engineering,2025-06-23,Candidate 421,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Infrastructure",2025-05-22,Candidate 422,Yes,United States,Tech,1.0,Expected,L4 (Senior),190000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-10,Candidate 423,Yes,Argentina,Tech,0.503,Expected,L4 (Senior),150000,Product - Engineering - Software Engineering - IC,L4,111274.67
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-17,Candidate 424,No,Argentina,Tech,0.503,Expected,L5 (Staff),,Product - Engineering - Software Engineering - IC,L4,133295.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-24,Candidate 425,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-24,Candidate 426,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Senior MLOps Engineer,2025-06-12,Candidate 427,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-05-30,Candidate 428,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Data Science Manager, Attribution",2025-05-24,Candidate 429,Yes,United States,Tech,1.0,Expected,M6 (VP),300000,Product - Engineering - Machine Learning Engineering - IC,M4,231950.7
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-06-25,Candidate 430,No,United States,Tech,1.0,Expected,L3 (Mid),190000,Product - Engineering - Software Engineering - IC,L5,190000.0
+Senior MLOps Engineer,2025-05-05,Candidate 431,No,United States,Tech,1.0,Expected,L5 (Staff),,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-16,Candidate 432,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-06-19,Candidate 433,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-06-11,Candidate 434,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Senior MLOps Engineer,2025-05-15,Candidate 435,Yes,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Software Engineer, Data Product (US / US PERM)",2025-06-16,Candidate 436,No,United States,Tech,1.0,Expected,L3 (Mid),175000,Product - Engineering - Software Engineering - IC,L3,190000.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-24,Candidate 437,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),85000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-06-16,Candidate 438,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-06-25,Candidate 439,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-24,Candidate 440,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Data Product (US / US PERM)",2025-06-26,Candidate 441,,United States,Tech,1.0,Expected,L3 (Mid),210000,Product - Engineering - Software Engineering - IC,L3,190000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-16,Candidate 442,Yes,United States,Tech,1.0,Current Comp,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-16,Candidate 443,No,Brazil,Tech,0.597,Current Comp,L3 (Mid),25000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-06-04,Candidate 444,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-06-23,Candidate 445,Yes,Brazil,Tech,0.597,Current Comp,L3 (Mid),135000,Product - Engineering - Software Engineering - IC,L4,113430.0
+Senior MLOps Engineer,2025-05-14,Candidate 446,No,United States,Tech,1.0,Expected,L5 (Staff),,Product - Engineering - Software Engineering - IC,L5,265000.0
+Forward Deployed Data Engineer (TS/SCI),2025-06-30,Candidate 447,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L5,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-27,Candidate 448,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-06-21,Candidate 449,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-06-16,Candidate 450,Yes,Brazil,Tech,0.597,Current Comp,L5 (Staff),92000,Product - Engineering - Software Engineering - IC,L3,158205.0
+Forward Deployed Data Engineer (TS/SCI),2025-07-03,Candidate 451,No,United States,Tech,1.0,Expected,L3 (Mid),160000,Product - Engineering - Forward Deployed Engineering - IC,L5,229984.32
+"Senior Software Engineer, Data Product (LATAM)",2025-06-27,Candidate 452,No,Brazil,Tech,0.597,Current Comp,L3 (Mid),36000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-13,Candidate 453,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-16,Candidate 454,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Head of Product Engineering,2025-05-23,Candidate 455,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-05-06,Candidate 456,,,Tech,,Expected,,8000,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-26,Candidate 457,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-17,Candidate 458,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L4,132069.53
+Head of Product Engineering,2025-07-02,Candidate 459,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-02,Candidate 460,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-06-23,Candidate 461,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior MLOps Engineer,2025-06-18,Candidate 462,Yes,United States,Tech,1.0,Expected,L4 (Senior),225000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Data Product (LATAM)",2025-07-01,Candidate 463,No,Argentina,Tech,0.503,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,111274.67
+"Senior Software Engineer, Infrastructure",2025-06-20,Candidate 464,No,United States,Tech,1.0,Current Comp,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-02,Candidate 465,No,Brazil,Tech,0.597,Expected,L4 (Senior),96000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-07-07,Candidate 466,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-06-21,Candidate 467,Yes,Brazil,Tech,0.597,Expected,L5 (Staff),120000,Product - Engineering - Software Engineering - IC,L4,158205.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-04,Candidate 468,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-21,Candidate 469,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior or Staff Software Engineer, SIGINT",2025-06-18,Candidate 470,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-07-08,Candidate 471,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-06-24,Candidate 472,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-06-23,Candidate 473,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-07-01,Candidate 474,Yes,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Data Engineer (TS/SCI),2025-07-03,Candidate 475,No,United States,Tech,1.0,,L4 (Senior),,Product - Engineering - Forward Deployed Engineering - IC,L5,265465.92
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-23,Candidate 476,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-09,Candidate 477,No,United States,Tech,1.0,Current Comp,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-06-17,Candidate 478,Yes,Brazil,Tech,0.597,Current Comp,L3 (Mid),72000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior Software Engineer, Data Product (LATAM)",2025-07-01,Candidate 479,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Infrastructure",2025-06-30,Candidate 480,No,United States,Tech,1.0,Current Comp,L3 (Mid),150000,Product - Engineering - Software Engineering - IC,L4,190000.0
+"Senior Software Engineer, Infrastructure",,Candidate 481,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-06-25,Candidate 482,No,United States,Tech,1.0,Expected,L3 (Mid),180000,Product - Engineering - Software Engineering - IC,L4,190000.0
+"Senior Software Engineer, Infrastructure",2025-06-16,Candidate 483,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-06-24,Candidate 484,No,United States,Tech,1.0,Current Comp,L4 (Senior),210000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-02,Candidate 485,No,United States,Tech,1.0,Expected,L3 (Mid),170000,Product - Engineering - Software Engineering - IC,L4,190000.0
+Senior MLOps Engineer,2025-07-02,Candidate 486,No,United States,Tech,1.0,Expected,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Data Science Manager, Attribution",2025-07-09,Candidate 487,,,Tech,,,,,Product - Engineering - Machine Learning Engineering - IC,M4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-05-22,Candidate 488,No,Brazil,Tech,0.597,Expected,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L3,132069.53
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-06-30,Candidate 489,No,United States,Tech,1.0,Expected,L5 (Staff),225000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-08,Candidate 490,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Data Product (US / US PERM)",2025-06-25,Candidate 491,Yes,United States,Tech,1.0,Expected,L3 (Mid),190000,Product - Engineering - Software Engineering - IC,L3,190000.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-06-16,Candidate 492,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-06-30,Candidate 493,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-07,Candidate 494,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),140000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-07-02,Candidate 495,No,Brazil,Tech,0.597,Expected,L3 (Mid),84000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-10,Candidate 496,No,United States,Tech,1.0,Current Comp,L5 (Staff),180000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-07-03,Candidate 497,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-06-30,Candidate 498,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),84000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Software Engineer, Data Platform – US",2025-07-02,Candidate 499,No,United States,Tech,1.0,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Software Engineer, Data Product (US / US PERM)",2025-06-12,Candidate 500,No,United States,Tech,1.0,Expected,L3 (Mid),200000,Product - Engineering - Software Engineering - IC,L3,190000.0
+"Senior Software Engineer, Infrastructure",2025-07-07,Candidate 501,No,United States,Tech,1.0,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+Solutions Architect,2025-07-16,Candidate 502,No,United States,Non-tech,1.0,Current Comp,L3 (Mid),170000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,160677.0
+"Engineering Manager, Data Engineering",2025-07-07,Candidate 503,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-15,Candidate 504,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior or Staff Software Engineer, SIGINT",2025-06-13,Candidate 505,Yes,Spain,Tech,0.75,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,165916.5
+"Senior or Staff Software Engineer, SIGINT",2025-07-14,Candidate 506,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Data Product (US / US PERM)",2025-07-07,Candidate 507,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-07-08,Candidate 508,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior or Staff Software Engineer, SIGINT",2025-06-24,Candidate 509,No,United States,Tech,1.0,Expected,L3 (Mid),100000,Product - Engineering - Software Engineering - IC,L4,190000.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-27,Candidate 510,No,Brazil,Tech,0.597,Expected,L4 (Senior),60000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Head of Engineering, AI",2025-07-17,Candidate 511,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-06-27,Candidate 512,Yes,Brazil,Tech,0.597,Expected,L5 (Staff),100000,Product - Engineering - Software Engineering - IC,L4,158205.0
+Solutions Architect,2025-07-16,Candidate 513,No,United States,Non-tech,1.0,Expected,L3 (Mid),150000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,160677.0
+Forward Deployed Data Engineer (TS/SCI),2023-04-12,Candidate 514,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L5,0.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-07-07,Candidate 515,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-14,Candidate 516,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),100000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-06-30,Candidate 517,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,,Candidate 518,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-15,Candidate 519,No,United States,Tech,1.0,,L3 (Mid),140000,Product - Engineering - Software Engineering - IC,L4,190000.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-07-03,Candidate 520,Yes,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-07-07,Candidate 521,,,Tech,,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-06-24,Candidate 522,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),85000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-15,Candidate 523,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Forward Deployed Engineer - US National Security,,Candidate 524,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-06-16,Candidate 525,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),132847.65,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Software Engineer, Data Product (LATAM)",2025-07-15,Candidate 526,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),57000,Product - Engineering - Software Engineering - IC,L3,132069.53
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-16,Candidate 527,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-07-15,Candidate 528,No,United States,Tech,1.0,Current Comp,L5 (Staff),220000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-25,Candidate 529,,,Tech,,Expected,,245000,Product - Engineering - Software Engineering - IC,L4,0.0
+"Engineering Manager, Data Engineering",2025-07-08,Candidate 530,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M4,0.0
+"Software Engineer, Data Product (US / US PERM)",,Candidate 531,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-07-17,Candidate 532,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Backend Engineer, Data Product (US / US PERM)",2025-07-22,Candidate 533,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-21,Candidate 534,No,Brazil,Tech,0.597,Expected,L4 (Senior),90000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-18,Candidate 535,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-07-17,Candidate 536,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+Head of Product Engineering,2025-07-10,Candidate 537,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-07-01,Candidate 538,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Forward Deployed Engineer - US National Security,2025-07-02,Candidate 539,No,United States,Tech,1.0,,L4 (Senior),,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+"Senior Software Engineer, Data Product (LATAM)",2025-07-17,Candidate 540,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-21,Candidate 541,No,Brazil,Tech,0.597,Expected,L3 (Mid),72000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Data Science Manager, Attribution",2025-07-01,Candidate 542,No,Brazil,Tech,0.597,Current Comp,M5 (Director),156000,Product - Engineering - Machine Learning Engineering - IC,M4,124773.42
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-04-25,Candidate 543,Yes,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-05-20,Candidate 544,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 545,Yes,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Infrastructure",2025-07-08,Candidate 546,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Product Engineering,2025-07-17,Candidate 547,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-02,Candidate 548,No,Brazil,Tech,0.597,Expected,L4 (Senior),84000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-21,Candidate 549,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),96000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Product (LATAM)",2025-07-17,Candidate 550,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-07-21,Candidate 551,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Solutions Architect,2025-07-18,Candidate 552,No,United States,Non-tech,1.0,Current Comp,L3 (Mid),160000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,160677.0
+"Senior or Staff Software Engineer, SIGINT",2025-06-26,Candidate 553,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-30,Candidate 554,Yes,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Solutions Architect,2025-07-18,Candidate 555,No,United States,Non-tech,1.0,Current Comp,L3 (Mid),135000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,160677.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-07-22,Candidate 556,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior or Staff Software Engineer, SIGINT",,Candidate 557,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Data Product (US / US PERM)",2025-07-21,Candidate 558,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+Solutions Architect,2025-07-28,Candidate 559,No,United States,Non-tech,1.0,Current Comp,L3 (Mid),150000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,160677.0
+Solutions Architect,2025-07-18,Candidate 560,No,United States,Non-tech,1.0,Expected,L4 (Senior),200000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,180147.0
+Solutions Architect,2025-07-16,Candidate 561,No,United States,Non-tech,1.0,Current Comp,L3 (Mid),130000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,160677.0
+Senior MLOps Engineer,2025-05-15,Candidate 562,Yes,United States,Tech,1.0,Expected,L5 (Staff),,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Head of Engineering, AI",2025-07-24,Candidate 563,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Engineering Manager, Data Engineering",2025-07-28,Candidate 564,No,United States,Tech,1.0,Expected,M3 (Team Lead),250000,Product - Engineering - Software Engineering - Mgmt,M4,220000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-07-10,Candidate 565,Yes,United States,Tech,1.0,Expected,L4 (Senior),190000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-08,Candidate 566,No,United States,Tech,1.0,Expected,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-07-06,Candidate 567,No,United States,Tech,1.0,Expected,L4 (Senior),250000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-07-17,Candidate 568,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Staff Software Engineer, Backend | Product Engineering (United States)",2025-06-23,Candidate 569,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+Forward Deployed Engineer - US National Security,2025-06-24,Candidate 570,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-23,Candidate 571,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Software Engineer, Data Platform – US",2025-07-21,Candidate 572,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Infrastructure",2025-07-16,Candidate 573,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-29,Candidate 574,No,Brazil,Tech,0.597,Expected,L3 (Mid),60000,Product - Engineering - Software Engineering - IC,L4,113430.0
+Solutions Architect,2025-07-18,Candidate 575,No,United States,Non-tech,1.0,Current Comp,L4 (Senior),200000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,180147.0
+"Senior Software Engineer, Infrastructure",2025-07-22,Candidate 576,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-08,Candidate 577,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),100000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-21,Candidate 578,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Engineering Manager, Data Engineering",2025-07-28,Candidate 579,No,United States,Tech,1.0,Expected,M3 (Team Lead),230000,Product - Engineering - Software Engineering - Mgmt,M4,220000.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-02,Candidate 580,Yes,United States,Tech,1.0,Expected,L4 (Senior),225000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-24,Candidate 581,Yes,Brazil,Tech,0.597,Current Comp,L4 (Senior),100000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-07-16,Candidate 582,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Data Product (LATAM)",2025-07-15,Candidate 583,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+Head of Product Engineering,2025-07-28,Candidate 584,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+Forward Deployed Engineer - US National Security,2025-07-17,Candidate 585,No,United States,Tech,1.0,Current Comp,L4 (Senior),250000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+"Software Engineer, Data Product (LATAM)",2025-07-15,Candidate 586,No,Brazil,Tech,0.597,Current Comp,L3 (Mid),48000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior Software Engineer, Data Product (LATAM)",2025-07-29,Candidate 587,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-23,Candidate 588,No,Argentina,Tech,0.503,Expected,L3 (Mid),90000,Product - Engineering - Software Engineering - IC,L4,95570.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-29,Candidate 589,No,Brazil,Tech,0.597,Expected,L3 (Mid),60000,Product - Engineering - Software Engineering - IC,L4,113430.0
+Forward Deployed Engineer - US National Security,2025-06-25,Candidate 590,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L4,0.0
+"Senior Software Engineer, Infrastructure",2025-07-08,Candidate 591,,United States,Tech,1.0,,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-28,Candidate 592,No,Brazil,Tech,0.597,Expected,L3 (Mid),75000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior Software Engineer, Infrastructure",2025-07-23,Candidate 593,No,Canada,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Infrastructure",2025-07-08,Candidate 594,No,United States,Tech,1.0,Expected,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Data Product (LATAM)",2025-06-27,Candidate 595,No,Brazil,Tech,0.597,Current Comp,L3 (Mid),78000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior Software Engineer, Infrastructure",,Candidate 596,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Infrastructure",,Candidate 597,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-23,Candidate 598,No,United States,Tech,1.0,Expected,L4 (Senior),215000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Backend (Egypt)",2025-07-31,Candidate 599,No,Egypt,Tech,0.5,Expected,L3 (Mid),,Product - Engineering - Software Engineering - IC,L4,95000.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-31,Candidate 600,No,United States,Tech,1.0,Current Comp,,215000,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-07-16,Candidate 601,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),100000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-21,Candidate 602,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Product (LATAM)",2025-07-01,Candidate 603,No,Brazil,Tech,0.597,Current Comp,M4 (Manager),,Product - Engineering - Software Engineering - IC,L4,95520.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-07-28,Candidate 604,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Head of Product Engineering,2025-07-23,Candidate 605,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-23,Candidate 606,No,United States,Tech,1.0,Expected,L4 (Senior),220000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior or Staff Software Engineer, SIGINT",2025-07-21,Candidate 607,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Solutions Architect,2025-07-29,Candidate 608,No,United States,Non-tech,1.0,Expected,L4 (Senior),200000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,180147.0
+Forward Deployed Engineer - US National Security,2025-07-17,Candidate 609,No,United States,Tech,1.0,Current Comp,L4 (Senior),290000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+Forward Deployed Engineer - US National Security,2025-07-30,Candidate 610,No,United States,Tech,1.0,Expected,L4 (Senior),250000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+"Software Engineer, Data Product (LATAM)",2025-06-27,Candidate 611,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Data Science Manager, Attribution",2025-08-04,Candidate 612,,,Tech,,,,,Product - Engineering - Machine Learning Engineering - IC,M4,0.0
+Forward Deployed Engineer - US National Security,,Candidate 613,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L4,0.0
+Head of Product Engineering,2025-08-01,Candidate 614,Yes,United States,Tech,1.0,Current Comp,,375000,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-06-17,Candidate 615,No,United States,Tech,1.0,Current Comp,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-07-22,Candidate 616,No,United States,Tech,1.0,Expected,L4 (Senior),275000,Product - Engineering - Forward Deployed Engineering - IC,L4,265465.92
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-21,Candidate 617,No,Argentina,Tech,0.503,Expected,L4 (Senior),80000,Product - Engineering - Software Engineering - IC,L4,111274.67
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-07-10,Candidate 618,Yes,United States,Tech,1.0,Expected,L4 (Senior),255000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-21,Candidate 619,No,Argentina,Tech,0.503,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,111274.67
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-18,Candidate 620,No,United States,Tech,1.0,Expected,L4 (Senior),230000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Infrastructure",2025-07-10,Candidate 621,Yes,United States,Tech,1.0,Current Comp,L5 (Staff),230000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Backend Engineer, Data Product (US / US PERM)",2025-07-10,Candidate 622,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Senior or Staff Software Engineer - Graph Analytics,,Candidate 623,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+Forward Deployed Data Engineer (TS/SCI),2025-07-31,Candidate 624,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L5,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-08-04,Candidate 625,No,Argentina,Tech,0.503,Expected,L3 (Mid),95000,Product - Engineering - Software Engineering - IC,L4,95570.0
+"Staff Software Engineer, Data Product (US / US PERM)",2025-06-13,Candidate 626,Yes,United States,Tech,1.0,Expected,L5 (Staff),260000,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Engineering Manager, Data Engineering",2025-07-30,Candidate 627,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M4,0.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-07-21,Candidate 628,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-29,Candidate 629,No,Brazil,Tech,0.597,Expected,L4 (Senior),105000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Engineering Manager, Data Engineering",,Candidate 630,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M4,0.0
+"Senior Software Engineer, Infrastructure",,Candidate 631,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-28,Candidate 632,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),9000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-08-05,Candidate 633,No,United States,Tech,1.0,Expected,L4 (Senior),190000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-06-23,Candidate 634,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-22,Candidate 635,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Engineering Manager, Data Engineering",2025-08-05,Candidate 636,No,United States,Tech,1.0,Expected,M4 (Manager),230000,Product - Engineering - Software Engineering - Mgmt,M4,250000.0
+Senior MLOps Engineer,2025-07-24,Candidate 637,Yes,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-27,Candidate 638,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Head of Product Engineering,2025-08-03,Candidate 639,Yes,United States,Tech,1.0,Current Comp,M6 (VP),350000,Product - Engineering - Software Engineering - Mgmt,M5,330000.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-29,Candidate 640,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),108000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Engineering Manager, Data Engineering",,Candidate 641,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M4,0.0
+"Engineering Manager, Data Engineering",2025-07-30,Candidate 642,No,United States,Tech,1.0,Current Comp,M4 (Manager),230000,Product - Engineering - Software Engineering - Mgmt,M4,250000.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-07-22,Candidate 643,No,United States,Tech,1.0,Current Comp,L5 (Staff),250000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-21,Candidate 644,No,Brazil,Tech,0.597,Expected,L4 (Senior),90000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Engineering Manager, Data Engineering",2025-07-22,Candidate 645,No,United States,Tech,1.0,Current Comp,M4 (Manager),230000,Product - Engineering - Software Engineering - Mgmt,M4,250000.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-07-15,Candidate 646,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-08-01,Candidate 647,No,Brazil,Tech,0.597,Expected,L3 (Mid),95000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-08-04,Candidate 648,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),80000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-08-05,Candidate 649,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),96000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-31,Candidate 650,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),122000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Software Engineer, Data Product (LATAM)",2025-07-31,Candidate 651,Yes,Brazil,Tech,0.597,Expected,L3 (Mid),48000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior Software Engineer, Data Infrastructure (RDBMS)",,Candidate 652,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-08-06,Candidate 653,No,United States,Tech,1.0,Expected,L6 (Principal),185000,Product - Engineering - Software Engineering - IC,L4,320000.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-22,Candidate 654,Yes,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-07-21,Candidate 655,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-08-01,Candidate 656,No,Brazil,Tech,0.597,Expected,L3 (Mid),80000,Product - Engineering - Software Engineering - IC,L4,113430.0
+Head of Product Engineering,2025-08-06,Candidate 657,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+Solutions Architect,2025-08-07,Candidate 658,No,United States,Non-tech,1.0,Expected,L3 (Mid),165000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,160677.0
+Solutions Architect,2025-08-07,Candidate 659,,,Non-tech,,,,,GTM - Solutions Engineering - Solutions Engineering - IC,L4,0.0
+Solutions Architect,2025-08-07,Candidate 660,No,United States,Non-tech,1.0,Current Comp,L5 (Staff),225000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,202538.0
+Solutions Architect,2025-08-07,Candidate 661,No,United States,Non-tech,1.0,Expected,L4 (Senior),190000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,180147.0
+"Senior Software Engineer, Infrastructure",2025-08-04,Candidate 662,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-07-16,Candidate 663,No,United States,Tech,1.0,Expected,L4 (Senior),200000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-08-05,Candidate 664,No,United States,Tech,1.0,Expected,L5 (Staff),200000,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-21,Candidate 665,No,United States,Tech,1.0,Expected,L5 (Staff),200000,Product - Engineering - Software Engineering - IC,L4,265000.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-07-29,Candidate 666,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-08-08,Candidate 667,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-08-08,Candidate 668,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-08-08,Candidate 669,No,Brazil,Tech,0.597,Expected,L4 (Senior),90000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Infrastructure (RDBMS)",2025-07-23,Candidate 670,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+Solutions Architect,2025-08-08,Candidate 671,No,United States,Non-tech,1.0,Current Comp,L5 (Staff),200000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,202538.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-18,Candidate 672,No,United States,Tech,1.0,Current Comp,L4 (Senior),175000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Head of Product Engineering,2025-08-05,Candidate 673,No,United States,Tech,1.0,Expected,M5 (Director),315000,Product - Engineering - Software Engineering - Mgmt,M5,290000.0
+"Head of Engineering, AI",2025-06-26,Candidate 674,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Software Engineer, Data Product (LATAM)",2025-07-06,Candidate 675,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-18,Candidate 676,No,United States,Tech,1.0,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Software Engineer, Data Product (LATAM)",2025-07-15,Candidate 677,No,Brazil,Tech,0.597,Expected,L3 (Mid),85000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 678,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (United States)",2025-07-14,Candidate 679,No,United States,Tech,1.0,Current Comp,L4 (Senior),180000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Forward Deployed Engineer - US National Security,2025-07-24,Candidate 680,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L4,0.0
+Forward Deployed Data Engineer (TS/SCI),2025-07-30,Candidate 681,Yes,United States,Tech,1.0,,L4 (Senior),,Product - Engineering - Forward Deployed Engineering - IC,L5,265465.92
+Forward Deployed Engineer - US National Security,2025-07-30,Candidate 682,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L4,0.0
+"Data Science Manager, Attribution",2025-08-01,Candidate 683,No,United States,Tech,1.0,Expected,M4 (Manager),290000,Product - Engineering - Machine Learning Engineering - IC,M4,187400.7
+Senior MLOps Engineer,2025-08-06,Candidate 684,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-07-28,Candidate 685,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Senior or Staff Software Engineer, SIGINT",2025-07-30,Candidate 686,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-28,Candidate 687,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-08-01,Candidate 688,No,United States,Tech,1.0,Expected,L4 (Senior),210000,Product - Engineering - Software Engineering - IC,L4,221222.0
+Senior MLOps Engineer,2025-07-23,Candidate 689,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior or Staff Software Engineer, SIGINT",2025-07-30,Candidate 690,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Data Product (US / US PERM)",2025-07-07,Candidate 691,No,United States,Tech,1.0,Expected,L3 (Mid),180000,Product - Engineering - Software Engineering - IC,L3,190000.0
+"Senior Software Engineer, Data Product (US / US PERM)",2025-08-01,Candidate 692,No,United States,Tech,1.0,Current Comp,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-02,Candidate 693,No,Brazil,Tech,0.597,Expected,L4 (Senior),,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-08-05,Candidate 694,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),125000,Product - Engineering - Software Engineering - IC,L4,132069.53
+Forward Deployed Engineer - US National Security,2025-07-24,Candidate 695,,,Tech,,,,,Product - Engineering - Forward Deployed Engineering - IC,L4,0.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-06-03,Candidate 696,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Data Product (US / US PERM)",,Candidate 697,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+Head of Product Engineering,2025-07-30,Candidate 698,Yes,United States,Tech,1.0,Current Comp,M4 Veteran (Sr. Manager),360000,Product - Engineering - Software Engineering - Mgmt,M5,250000.0
+Solutions Architect,2025-07-18,Candidate 699,,,Non-tech,,,,,GTM - Solutions Engineering - Solutions Engineering - IC,L4,0.0
+Senior MLOps Engineer,2025-08-05,Candidate 700,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L5,0.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-21,Candidate 701,No,Brazil,Tech,0.597,Expected,L4 (Senior),60000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Data Product (US / US PERM)",,Candidate 702,No,United States,Tech,1.0,Current Comp,L4 (Senior),240000,Product - Engineering - Software Engineering - IC,L4,221222.0
+"Senior Software Engineer, Infrastructure",,Candidate 703,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Data Platform (US / US PERM)",2025-07-25,Candidate 704,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Senior Software Engineer, Infrastructure",2025-08-12,Candidate 705,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Software Engineer, Data Product (US / US PERM)",2025-08-06,Candidate 706,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L3,0.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-08-06,Candidate 707,No,Brazil,Tech,0.597,Expected,L3 (Mid),66000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-08-07,Candidate 708,No,Brazil,Tech,0.597,Expected,L3 (Mid),45000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Software Engineer, Data Product (LATAM)",2025-06-26,Candidate 709,Yes,Brazil,Tech,0.597,Expected,L3 (Mid),82000,Product - Engineering - Software Engineering - IC,L3,113430.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-07-02,Candidate 710,No,Brazil,Tech,0.597,Expected,L4 (Senior),110000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-08-04,Candidate 711,No,Brazil,Tech,0.597,Expected,L3 (Mid),120000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-16,Candidate 712,No,United States,Tech,1.0,Current Comp,L4 (Senior),240000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Engineering Manager, Data Engineering",2025-08-12,Candidate 713,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M4,0.0
+"Senior Software Engineer, Data Product (LATAM)",2025-07-31,Candidate 714,No,Brazil,Tech,0.597,Current Comp,L3 (Mid),70000,Product - Engineering - Software Engineering - IC,L4,113430.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-08-07,Candidate 715,Yes,Brazil,Tech,0.597,Expected,L5 (Staff),,Product - Engineering - Software Engineering - IC,L4,158205.0
+"Senior Software Engineer, Frontend | Product Engineering (LATAM)",2025-07-29,Candidate 716,Yes,Brazil,Tech,0.597,Expected,L4 (Senior),120000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-07-11,Candidate 717,No,United States,Tech,1.0,Current Comp,L5 (Staff),200000,Product - Engineering - Software Engineering - IC,L5,265000.0
+"Senior Software Engineer, Data Product (LATAM)",2025-07-21,Candidate 718,,,Tech,,,,,Product - Engineering - Software Engineering - IC,L4,0.0
+"Engineering Manager, Data Engineering",2025-07-30,Candidate 719,Yes,United States,Tech,1.0,Expected,M4 (Manager),240000,Product - Engineering - Software Engineering - Mgmt,M4,250000.0
+Solutions Architect,2025-07-18,Candidate 720,No,United States,Non-tech,1.0,Expected,L4 (Senior),180000,GTM - Solutions Engineering - Solutions Engineering - IC,L4,180147.0
+"Senior Software Engineer, Backend | Product Engineering (LATAM)",2025-06-16,Candidate 721,No,Brazil,Tech,0.597,Expected,L4 (Senior),72000,Product - Engineering - Software Engineering - IC,L4,132069.53
+"Staff Software Engineer, Backend | Product Engineering (United States)",2025-08-05,Candidate 722,No,United States,Tech,1.0,Expected,L5 (Staff),230000,Product - Engineering - Software Engineering - IC,L5,265000.0
+Head of Product Engineering,2025-08-12,Candidate 723,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Senior Software Engineer, Backend | Product Engineering (United States)",2025-08-07,Candidate 724,No,United States,Tech,1.0,Expected,L4 (Senior),240000,Product - Engineering - Software Engineering - IC,L5,221222.0
+"Software Engineer, Data Product (LATAM)",2025-07-15,Candidate 725,No,Brazil,Tech,0.597,Current Comp,L4 (Senior),72000,Product - Engineering - Software Engineering - IC,L3,132069.53
+Head of Product Engineering,2025-07-23,Candidate 726,,,Tech,,,,,Product - Engineering - Software Engineering - Mgmt,M5,0.0
+"Software Engineer, Data Product (US / US PERM)",2025-07-14,Candidate 727,No,United States,Tech,1.0,Expected,L3 (Mid),220000,Product - Engineering - Software Engineering - IC,L3,190000.0
+"Senior Backend Engineer, Data Product (US / US PERM)",2025-07-24,Candidate 728,No,United States,Tech,1.0,Expected,L3 (Mid),200000,Product - Engineering - Software Engineering - IC,L4,190000.0
+"Mid or Senior Software Engineer, Full Stack | Product Engineering (LATAM)",2025-08-05,Candidate 729,No,Brazil,Tech,0.597,Expected,L3 (Mid),100000,Product - Engineering - Software Engineering - IC,L3,113430.0

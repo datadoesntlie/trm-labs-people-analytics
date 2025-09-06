@@ -1,0 +1,40 @@
+Us or Non US,Country,Geo Factor for non tech roles,"Geo Factor for tech roles (Including Solutions Engineering, but excluding P. I.)"
+Non USA,Singapore,1.0,1.0
+Non USA,United Kingdom,0.861,0.961
+Non USA,Australia,0.831,0.931
+Non USA,Mexico,0.753,0.853
+Non USA,New Zealand,0.75,0.85
+Non USA,France,0.735,0.835
+Non USA,Canada,0.727,1.0
+Non USA,Germany,0.719,0.819
+Non USA,Netherlands,0.716,0.816
+Non USA,Italy,0.75,0.85
+Non USA,United Arab Emirates,0.69,0.79
+Non USA,Nigeria,0.657,0.757
+Non USA,Spain,0.75,0.75
+Non USA,Portugal,0.65,0.75
+Non USA,Czechia,0.551,0.651
+Non USA,Uruguay,0.514,0.614
+Non USA,Philippines,0.485,0.585
+Non USA,Greece,0.5,0.6
+Non USA,Serbia,0.35,0.45
+Non USA,Brazil,0.403,0.597
+Non USA,India,0.4,0.5
+Non USA,Argentina,0.37,0.503
+Non USA,Egypt,0.5,0.5
+Non USA,Colombia,0.6,0.7
+USA,United States,1.0,1.0
+Non USA,South Korea,0.759,0.859
+Non USA,Japan,0.616,0.716
+Non USA,Poland,0.586,0.686
+Non USA,Israel,0.65,0.75
+Non USA,Chile,0.33,0.43
+Non USA,Austria,0.7,0.8
+Non USA,Costa Rica,0.512,0.612
+Non USA,Ecuador,0.306,0.406
+Non USA,Peru,0.317,0.417
+Non USA,El Salvador,0.395,0.495
+Non USA,Belgium,0.7,0.8
+Non USA,Switzerland,0.9,1.0
+Non USA,Sweden,0.7,0.8
+Non USA,Thailand,0.28,0.38

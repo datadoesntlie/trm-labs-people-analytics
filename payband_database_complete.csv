@@ -1,0 +1,163 @@
+comp_id,role_category,level_id,level_code,seniority_id,seniority_name,cash_base,equity_value,equity_units,annual_total
+1,Product - Engineering - Software Engineering - IC,1,L1,1,Early,120000,96222,4299,144056
+2,Product - Engineering - Software Engineering - IC,1,L1,2,Seasoned,130000,111008,4960,157752
+3,Product - Engineering - Software Engineering - IC,1,L1,3,Veteran,140000,125793,5621,171448
+4,Product - Engineering - Software Engineering - IC,2,L2,1,Early,150000,140579,6281,185145
+5,Product - Engineering - Software Engineering - IC,2,L2,2,Seasoned,160000,155365,6942,198841
+6,Product - Engineering - Software Engineering - IC,2,L2,3,Veteran,170000,177544,7933,214386
+7,Product - Engineering - Software Engineering - IC,3,L3,1,Early,180000,197544,8826,229386
+8,Product - Engineering - Software Engineering - IC,3,L3,2,Seasoned,190000,221901,9915,245475
+9,Product - Engineering - Software Engineering - IC,3,L3,3,Veteran,200000,266259,11897,266565
+10,Product - Engineering - Software Engineering - IC,4,L4,1,Early,210000,308768,13796,287192
+11,Product - Engineering - Software Engineering - IC,4,L4,2,Seasoned,221222,354973,15860,309965
+12,Product - Engineering - Software Engineering - IC,4,L4,3,Veteran,245000,401179,17925,345295
+13,Product - Engineering - Software Engineering - IC,5,L5,1,Early,255000,445537,19907,366384
+14,Product - Engineering - Software Engineering - IC,5,L5,2,Seasoned,265000,493590,22054,388398
+15,Product - Engineering - Software Engineering - IC,5,L5,3,Veteran,285000,541644,24201,420411
+16,Product - Engineering - Software Engineering - IC,6,L6,1,Early,300000,589698,26348,447425
+17,Product - Engineering - Software Engineering - IC,6,L6,2,Seasoned,320000,637752,28495,479438
+18,Product - Engineering - Software Engineering - IC,6,L6,3,Veteran,340000,685806,30642,511452
+19,Product - Engineering - Software Engineering - Mgmt,1,L1,1,Early,210000,354357,15833,298589
+20,Product - Engineering - Software Engineering - Mgmt,1,L1,2,Seasoned,220000,401179,17925,320295
+21,Product - Engineering - Software Engineering - Mgmt,1,L1,3,Veteran,230000,448001,20017,342000
+22,Product - Engineering - Software Engineering - Mgmt,2,L2,1,Early,240000,494822,22109,363706
+23,Product - Engineering - Software Engineering - Mgmt,2,L2,2,Seasoned,250000,541644,24201,385411
+24,Product - Engineering - Software Engineering - Mgmt,2,L2,3,Veteran,263333,589698,26348,410758
+25,Product - Engineering - Software Engineering - Mgmt,3,L3,1,Early,276667,637752,28495,436105
+26,Product - Engineering - Software Engineering - Mgmt,3,L3,2,Seasoned,290000,685806,30642,461452
+27,Product - Engineering - Software Engineering - Mgmt,3,L3,3,Veteran,303333,733860,32789,486798
+28,Product - Engineering - Software Engineering - Mgmt,4,L4,1,Early,316667,3895269,174044,1290484
+29,Product - Engineering - Software Engineering - Mgmt,4,L4,2,Seasoned,330000,5500000,245744,1705000
+30,Product - Engineering - Software Engineering - Mgmt,4,L4,3,Veteran,343333,7104731,317445,2119516
+31,Product - Engineering - Forward Deployed Engineering - Mgmt,1,L1,1,Early,262400,354357,15833,350989
+32,Product - Engineering - Forward Deployed Engineering - Mgmt,1,L1,2,Seasoned,273120,401179,17925,373415
+33,Product - Engineering - Forward Deployed Engineering - Mgmt,1,L1,3,Veteran,283840,448001,20017,395840
+34,Product - Engineering - Forward Deployed Engineering - Mgmt,2,L2,1,Early,294560,494822,22109,418266
+35,Product - Engineering - Forward Deployed Engineering - Mgmt,2,L2,2,Seasoned,305280,541644,24201,440691
+36,Product - Engineering - Forward Deployed Engineering - Mgmt,2,L2,3,Veteran,321360,589698,26348,468785
+37,Product - Engineering - Forward Deployed Engineering - Mgmt,3,L3,1,Early,337440,630000,28149,494940
+38,Product - Engineering - Forward Deployed Engineering - Mgmt,3,L3,2,Seasoned,353520,693860,31002,526985
+39,Product - Engineering - Forward Deployed Engineering - Mgmt,3,L3,3,Veteran,369600,886119,39592,591130
+40,Product - Engineering - Forward Deployed Engineering - Mgmt,4,L4,1,Early,385680,1078377,48183,655274
+41,Product - Engineering - Forward Deployed Engineering - Mgmt,4,L4,2,Seasoned,401760,1270636,56773,719419
+42,Product - Engineering - Forward Deployed Engineering - Mgmt,4,L4,3,Veteran,417840,1462894,65363,783564
+43,Product - Security - Security Engineering - IC,1,L1,1,Early,154151,70278,3140,171720
+44,Product - Security - Security Engineering - IC,1,L1,2,Seasoned,161567,111008,4960,189319
+45,Product - Security - Security Engineering - IC,1,L1,3,Veteran,168983,151738,6780,206918
+46,Product - Security - Security Engineering - IC,2,L2,1,Early,176399,192469,8600,224517
+47,Product - Security - Security Engineering - IC,2,L2,2,Seasoned,183816,233199,10420,242115
+48,Product - Security - Security Engineering - IC,2,L2,3,Veteran,191232,249491,11147,253605
+49,Product - Security - Security Engineering - IC,3,L3,1,Early,196701,241345,10783,257038
+50,Product - Security - Security Engineering - IC,3,L3,2,Seasoned,206064,282076,12603,276583
+51,Product - Security - Security Engineering - IC,3,L3,3,Veteran,215427,322806,14423,296129
+52,Product - Security - Security Engineering - IC,4,L4,1,Early,223492,343171,15333,309285
+53,Product - Security - Security Engineering - IC,4,L4,2,Seasoned,234153,404267,18063,335220
+54,Product - Security - Security Engineering - IC,4,L4,3,Veteran,244814,465362,20793,361155
+55,Product - Security - Security Engineering - IC,5,L5,1,Early,255475,546823,24432,392181
+56,Product - Security - Security Engineering - IC,5,L5,2,Seasoned,266136,587553,26252,413024
+57,Product - Security - Security Engineering - IC,5,L5,3,Veteran,276796,628284,28072,433867
+58,Product - Security - Security Engineering - IC,6,L6,1,Early,287457,669014,29892,454711
+59,Product - Security - Security Engineering - IC,6,L6,2,Seasoned,298118,709745,31712,475554
+60,Product - Security - Security Engineering - IC,6,L6,3,Veteran,308779,750475,33532,496398
+61,Product - Security - Security Engineering - Mgmt,1,L1,1,Early,218667,144924,6475,254898
+62,Product - Security - Security Engineering - Mgmt,1,L1,2,Seasoned,227600,165949,7415,269087
+63,Product - Security - Security Engineering - Mgmt,1,L1,3,Veteran,236533,186974,8354,283277
+64,Product - Security - Security Engineering - Mgmt,2,L2,1,Early,245467,207999,9294,297467
+65,Product - Security - Security Engineering - Mgmt,2,L2,2,Seasoned,254400,229025,10233,311656
+66,Product - Security - Security Engineering - Mgmt,2,L2,3,Veteran,267800,245198,10956,329099
+67,Product - Security - Security Engineering - Mgmt,3,L3,1,Early,281200,200641,8965,331360
+68,Product - Security - Security Engineering - Mgmt,3,L3,2,Seasoned,294600,277544,12401,363986
+69,Product - Security - Security Engineering - Mgmt,3,L3,3,Veteran,308000,354447,15837,396612
+70,Product - Security - Security Engineering - Mgmt,4,L4,1,Early,321400,431351,19273,429238
+71,Product - Security - Security Engineering - Mgmt,4,L4,2,Seasoned,334800,508254,22709,461864
+72,Product - Security - Security Engineering - Mgmt,4,L4,3,Veteran,348200,585158,26145,494489
+73,Product - Engineering - Forward Deployed Engineering - IC,1,L1,1,Early,153860,96222,4299,177916
+74,Product - Engineering - Forward Deployed Engineering - IC,1,L1,2,Seasoned,166440,111008,4960,194192
+75,Product - Engineering - Forward Deployed Engineering - IC,1,L1,3,Veteran,179020,125794,5621,210468
+76,Product - Engineering - Forward Deployed Engineering - IC,2,L2,1,Early,191600,140579,6281,226745
+77,Product - Engineering - Forward Deployed Engineering - IC,2,L2,2,Seasoned,204180,155365,6942,243021
+78,Product - Engineering - Forward Deployed Engineering - IC,2,L2,3,Veteran,212781,177544,7933,257167
+79,Product - Engineering - Forward Deployed Engineering - IC,3,L3,1,Early,218157,177544,7933,262543
+80,Product - Engineering - Forward Deployed Engineering - IC,3,L3,2,Seasoned,229984,221901,9915,285460
+81,Product - Engineering - Forward Deployed Engineering - IC,3,L3,3,Veteran,241812,266258,11897,308376
+82,Product - Engineering - Forward Deployed Engineering - IC,4,L4,1,Early,249876,308767,13796,327067
+83,Product - Engineering - Forward Deployed Engineering - IC,4,L4,2,Seasoned,265466,354973,15860,354209
+84,Product - Engineering - Forward Deployed Engineering - IC,4,L4,3,Veteran,281056,401179,17925,381351
+85,Product - Engineering - Forward Deployed Engineering - IC,5,L5,1,Early,301485,445536,19907,412869
+86,Product - Engineering - Forward Deployed Engineering - IC,5,L5,2,Seasoned,312237,493590,22054,435635
+87,Product - Engineering - Forward Deployed Engineering - IC,5,L5,3,Veteran,322989,541644,24201,458400
+88,Product - Engineering - Forward Deployed Engineering - IC,6,L6,1,Early,333741,589698,26348,481166
+89,Product - Engineering - Forward Deployed Engineering - IC,6,L6,2,Seasoned,344493,637752,28495,503931
+90,Product - Engineering - Forward Deployed Engineering - IC,6,L6,3,Veteran,355245,685806,30642,526697
+91,GTM - Solutions Engineering - Solutions Engineering - IC,1,L1,1,Early,124982,26671,1192,169144
+92,GTM - Solutions Engineering - Solutions Engineering - IC,1,L1,2,Seasoned,129525,31978,1429,176377
+93,GTM - Solutions Engineering - Solutions Engineering - IC,1,L1,3,Veteran,134068,37285,1666,183610
+94,GTM - Solutions Engineering - Solutions Engineering - IC,2,L2,1,Early,138611,42592,1903,190453
+95,GTM - Solutions Engineering - Solutions Engineering - IC,2,L2,2,Seasoned,143154,47899,2140,198075
+96,GTM - Solutions Engineering - Solutions Engineering - IC,2,L2,3,Veteran,148995,54532,2437,207327
+97,GTM - Solutions Engineering - Solutions Engineering - IC,3,L3,1,Early,154187,58512,2614,215071
+98,GTM - Solutions Engineering - Solutions Engineering - IC,3,L3,2,Seasoned,160677,67800,3029,225830
+99,GTM - Solutions Engineering - Solutions Engineering - IC,3,L3,3,Veteran,167167,77087,3444,236589
+100,GTM - Solutions Engineering - Solutions Engineering - IC,4,L4,1,Early,172684,85710,3830,245917
+101,GTM - Solutions Engineering - Solutions Engineering - IC,4,L4,2,Seasoned,180147,95661,4274,258106
+102,GTM - Solutions Engineering - Solutions Engineering - IC,4,L4,3,Veteran,187611,105611,4719,270297
+103,GTM - Solutions Engineering - Solutions Engineering - IC,5,L5,1,Early,194425,114898,5134,281477
+104,GTM - Solutions Engineering - Solutions Engineering - IC,5,L5,2,Seasoned,202538,125512,5608,294677
+105,GTM - Solutions Engineering - Solutions Engineering - IC,5,L5,3,Veteran,210650,136126,6082,307877
+106,GTM - Solutions Engineering - Solutions Engineering - IC,6,L6,1,Early,218763,146739,6556,321077
+107,GTM - Solutions Engineering - Solutions Engineering - IC,6,L6,2,Seasoned,226875,157353,7031,334276
+108,GTM - Solutions Engineering - Solutions Engineering - IC,6,L6,3,Veteran,234988,167967,7505,347476
+109,GTM - Solutions Engineering - Solutions Engineering - Mgmt,1,L1,1,Early,187500,95440,4264,211360
+110,GTM - Solutions Engineering - Solutions Engineering - Mgmt,1,L1,2,Seasoned,195885,105611,4719,222287
+111,GTM - Solutions Engineering - Solutions Engineering - Mgmt,1,L1,3,Veteran,204270,115783,5173,233215
+112,GTM - Solutions Engineering - Solutions Engineering - Mgmt,2,L2,1,Early,212655,125954,5628,244143
+113,GTM - Solutions Engineering - Solutions Engineering - Mgmt,2,L2,2,Seasoned,221040,136126,6082,255071
+114,GTM - Solutions Engineering - Solutions Engineering - Mgmt,2,L2,3,Veteran,230357,146739,6556,267042
+115,GTM - Solutions Engineering - Solutions Engineering - Mgmt,3,L3,1,Early,238742,157353,7031,278080
+116,GTM - Solutions Engineering - Solutions Engineering - Mgmt,3,L3,2,Seasoned,248990,167967,7505,290982
+117,GTM - Solutions Engineering - Solutions Engineering - Mgmt,3,L3,3,Veteran,259239,178581,7979,303884
+118,GTM - Solutions Engineering - Solutions Engineering - Mgmt,4,L4,1,Early,269487,189195,8453,316786
+119,GTM - Solutions Engineering - Solutions Engineering - Mgmt,4,L4,2,Seasoned,279736,199808,8928,329688
+120,GTM - Solutions Engineering - Solutions Engineering - Mgmt,4,L4,3,Veteran,289984,210422,9402,342589
+121,Product - Engineering - Machine Learning Engineering - IC,1,L1,1,Early,152481,70278,3140,170050
+122,Product - Engineering - Machine Learning Engineering - IC,1,L1,2,Seasoned,161211,111008,4960,188963
+123,Product - Engineering - Machine Learning Engineering - IC,1,L1,3,Veteran,169941,151738,6780,207875
+124,Product - Engineering - Machine Learning Engineering - IC,2,L2,1,Early,178671,192469,8600,226788
+125,Product - Engineering - Machine Learning Engineering - IC,2,L2,2,Seasoned,187401,233199,10420,245700
+126,Product - Engineering - Machine Learning Engineering - IC,2,L2,3,Veteran,194601,249491,11147,256974
+127,Product - Engineering - Machine Learning Engineering - IC,3,L3,1,Early,201351,241345,10783,261687
+128,Product - Engineering - Machine Learning Engineering - IC,3,L3,2,Seasoned,209001,282076,12603,279520
+129,Product - Engineering - Machine Learning Engineering - IC,3,L3,3,Veteran,216651,322806,14423,297352
+130,Product - Engineering - Machine Learning Engineering - IC,4,L4,1,Early,223401,343171,15333,309193
+131,Product - Engineering - Machine Learning Engineering - IC,4,L4,2,Seasoned,231951,404267,18063,333017
+132,Product - Engineering - Machine Learning Engineering - IC,4,L4,3,Veteran,240501,465362,20793,356841
+133,Product - Engineering - Machine Learning Engineering - IC,5,L5,1,Early,246738,546823,24432,383443
+134,Product - Engineering - Machine Learning Engineering - IC,5,L5,2,Seasoned,257601,587553,26252,404489
+135,Product - Engineering - Machine Learning Engineering - IC,5,L5,3,Veteran,268464,628284,28072,425535
+136,Product - Engineering - Machine Learning Engineering - IC,6,L6,1,Early,279327,669014,29892,446580
+137,Product - Engineering - Machine Learning Engineering - IC,6,L6,2,Seasoned,290190,709745,31712,467626
+138,Product - Engineering - Machine Learning Engineering - IC,6,L6,3,Veteran,301053,750475,33532,488671
+139,Operations - Finance - FP&A - Mgmt,1,L1,1,Early,180000,115000,5138,160299
+140,Operations - Finance - FP&A - Mgmt,1,L1,2,Seasoned,190000,125000,5585,172096
+141,Operations - Finance - FP&A - Mgmt,1,L1,3,Veteran,200000,140000,6255,183892
+142,Operations - Finance - FP&A - Mgmt,2,L2,1,Early,215000,160000,7149,195689
+143,Operations - Finance - FP&A - Mgmt,2,L2,2,Seasoned,225000,200000,8936,207486
+144,Operations - Finance - FP&A - Mgmt,2,L2,3,Veteran,235000,240000,10723,219833
+145,Operations - Finance - FP&A - Mgmt,3,L3,1,Early,245000,280000,12511,231630
+146,Operations - Finance - FP&A - Mgmt,3,L3,2,Seasoned,250000,320000,14298,244528
+147,Operations - Finance - FP&A - Mgmt,3,L3,3,Veteran,270000,360000,16085,257426
+148,Operations - Finance - FP&A - Mgmt,4,L4,1,Early,295000,2000000,89362,270325
+149,Operations - Finance - FP&A - Mgmt,4,L4,2,Seasoned,320000,2500000,111702,283223
+150,Operations - Finance - FP&A - Mgmt,4,L4,3,Veteran,345000,3000000,134042,296121
+151,Operations - Finance - Accounting - Mgmt,1,L1,1,Early,130000,41271,1844,147408
+152,Operations - Finance - Accounting - Mgmt,1,L1,2,Seasoned,140000,55012,2458,162153
+153,Operations - Finance - Accounting - Mgmt,1,L1,3,Veteran,150000,68752,3072,176897
+154,Operations - Finance - Accounting - Mgmt,2,L2,1,Early,167519,82493,3686,191642
+155,Operations - Finance - Accounting - Mgmt,2,L2,2,Seasoned,178828,96233,4300,206386
+156,Operations - Finance - Accounting - Mgmt,2,L2,3,Veteran,190733,112722,5036,222413
+157,Operations - Finance - Accounting - Mgmt,3,L3,1,Early,202042,118218,5282,235096
+158,Operations - Finance - Accounting - Mgmt,3,L3,2,Seasoned,214542,145699,6510,254466
+159,Operations - Finance - Accounting - Mgmt,3,L3,3,Veteran,227041,173180,7738,273836
+160,Operations - Finance - Accounting - Mgmt,4,L4,1,Early,239541,200661,8966,293206
+161,Operations - Finance - Accounting - Mgmt,4,L4,2,Seasoned,252041,228142,10194,312576
+162,Operations - Finance - Accounting - Mgmt,4,L4,3,Veteran,264541,255623,11421,331946
