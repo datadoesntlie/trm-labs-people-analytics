@@ -1,11 +1,11 @@
 CANDIDATE COMPOSITION DATA 2025 - CLEANING SUMMARY REPORT
 ========================================================
-Generated: 2025-09-06 16:18:11
+Generated: 2025-09-07 12:41:23
 
 OVERVIEW
 --------
 Input Data: 729 total records
-Processing Date: 2025-09-06
+Processing Date: 2025-09-07
 Script: clean_candidate.py
 
 DATA FILTERING
@@ -47,8 +47,8 @@ CLEANING OPERATIONS PERFORMED
 
 7. ✅ TRM Level Cash column added
    - Formula: Final Pay Band × TRM Level × Geo Factor
-   - 404 records had TRM Level Cash calculated
-   - 53 records with missing TRM Level Cash
+   - 426 records had TRM Level Cash calculated
+   - 31 records with missing TRM Level Cash
 
 FINAL DATASET STATISTICS
 ------------------------
@@ -66,19 +66,19 @@ Compensation Difference (TRM Cash - $ Base Comp):
 - Records calculated: 445/457
 
 TRM Level Cash vs TRM Cash Comparison:
-- Mean difference: $4,025.88
+- Mean difference: $4,066.60
 - Median difference: $0.00
 - Minimum difference: $-98,778.00
 - Maximum difference: $82,253.00
-- Records with identical values: 246 (current level = target level)
-- Records with different values: 158 (promotion/demotion potential)
+- Records with identical values: 258 (current level = target level)
+- Records with different values: 168 (promotion/demotion potential)
 
 KEY INSIGHTS
 ------------
 1. Data Completeness: 62.7% of original records (457/729) had complete critical data
-2. Level Alignment: 53.8% of candidates (246/457) are already at their target TRM level
+2. Level Alignment: 56.5% of candidates (258/457) are already at their target TRM level
 3. Compensation Gap: Average $13,223 difference between TRM Cash and current base compensation
-4. Promotion Potential: 158 candidates show difference between current and TRM level compensation
+4. Promotion Potential: 168 candidates show difference between current and TRM level compensation
 5. Geographic Distribution: Data spans 11 locations with strong tech role representation
 
 OUTPUT FILES GENERATED
@@ -90,7 +90,7 @@ OUTPUT FILES GENERATED
 RECOMMENDATIONS
 ---------------
 1. Review incomplete_candidate_records.csv to determine if missing data can be obtained
-2. Investigate the 158 candidates with level misalignment for potential promotions
+2. Investigate the 168 candidates with level misalignment for potential promotions
 3. Analyze compensation gaps for budget planning and equity adjustments
 4. Verify payband matches for data accuracy
 

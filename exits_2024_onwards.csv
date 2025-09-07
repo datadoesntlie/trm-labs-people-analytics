@@ -1,0 +1,33 @@
+Employee Name,Employment Status,Manager,Start Date,Last Date,Org,Department,Level distinction,Country,Termination type,Regrettable?,Attrition main driver,FTE or Non-FTE
+Employee 1141,Terminated,Employe 2141,2022-10-31,2024-01-22,R&D,Software Engineering,L4 Seasoned,United States,Involuntary,Non-regrettable,Underperformance,FTE
+Employee 1143,Terminated,Employe 2143,2021-10-18,2024-03-19,R&D,Software Engineering,M4 Veteran,United States,Voluntary,Regrettable,WLB,FTE
+Employee 1146,Terminated,Employe 2146,2023-10-09,2024-02-28,R&D,Software Engineering,L3 Seasoned,India,Involuntary,Non-regrettable,Underperformance,FTE
+Employee 1148,Terminated,Employe 2148,2023-06-20,2024-03-05,Go-To-Market,Solutions Engineering,L5 Seasoned,United States,Involuntary,Non-regrettable,Role elimination,FTE
+Employee 1151,Terminated,Employe 2151,2022-11-14,2024-03-22,R&D,Software Engineering,L5 Seasoned,United States,Voluntary,Non-regrettable,Career opportunity,FTE
+Employee 1152,Terminated,Employe 2152,2024-03-04,2024-03-26,R&D,Software Engineering,M4 Seasoned,United States,Voluntary,Regrettable,WLB,FTE
+Employee 1153,Terminated,Employe 2153,2022-12-05,2024-03-26,R&D,Software Engineering,L5 Early,United States,Involuntary,Non-regrettable,Underperformance,FTE
+Employee 1168,Terminated,Employe 2168,2023-12-01,2024-05-08,R&D,Software Engineering,L4 Veteran,United States,Voluntary,Regrettable,Manager,FTE
+Employee 1180,Terminated,Employe 2180,2022-09-18,2024-06-09,R&D,Software Engineering,L2 Seasoned,Egypt,Involuntary,Non-regrettable,Underperformance,FTE
+Employee 1189,Terminated,Employe 2189,2022-02-07,2024-06-07,Go-To-Market,Solutions Engineering,L5 Early,United States,Voluntary,Regrettable,Career opportunity,FTE
+Employee 1190,Terminated,Employe 2190,2022-02-14,2024-06-07,R&D,Software Engineering,L3 Seasoned,United States,Voluntary,Non-regrettable,Manager,FTE
+Employee 1192,Terminated,Employe 2192,2024-05-28,2024-07-13,Operations,Financial Planning and Analysis,L5 Early,Poland,Involuntary,Non-regrettable,Underperformance,FTE
+Employee 1199,Terminated,Employe 2199,2023-05-08,2024-08-09,R&D,Security Engineering,L5 Early,United States,Voluntary,Non-regrettable,WLB,FTE
+Employee 1202,Terminated,Employe 2202,2023-05-08,2024-08-23,R&D,Data Platform Engineering,L5,Canada,Voluntary,Regrettable,Career opportunity,FTE
+Employee 1210,Terminated,Employe 2210,2023-10-16,2024-10-11,R&D,Software Engineering,L4 Seasoned,Canada,Involuntary,Non-regrettable,Underperformance,FTE
+Employee 1216,Terminated,Employe 2216,2023-01-18,2024-11-13,R&D,Software Engineering,L4 Early,United States,Voluntary,Non-Regrettable,Culture,FTE
+Employee 1219,Terminated,Employe 2219,2022-10-10,2024-12-01,R&D,Software Engineering,L4 Early,Canada,Voluntary,Regrettable,WLB,FTE
+Employee 1220,Terminated,Employe 2220,2024-10-15,2024-12-13,R&D,Software Engineering,L4,United States,Voluntary,Non-Regrettable,Career opportunity,FTE
+Employee 1231,Terminated,Employe 2231,2023-04-10,2025-01-10,R&D,Software Engineering,L4 Seasoned,United States,Voluntary,Non-regrettable,Career opportunity,FTE
+Employee 1236,Terminated,Employe 2236,2021-04-29,2025-02-03,R&D,Data Platform Engineering,L4 Early,United States,Involuntary,Non-regrettable,Underperformance,FTE
+Employee 1237,Terminated,Employe 2237,2021-12-22,2025-02-07,R&D,Data Platform Engineering,L3 Seasoned,United States,Voluntary,Non-Regrettable,WLB,FTE
+Employee 1242,Terminated,Employe 2242,2024-01-22,2025-02-25,R&D,Software Engineering,L5 Early,United States,Involuntary,Non-regrettable,Underperformance,FTE
+Employee 1244,Terminated,Employe 2244,2023-07-10,2025-02-28,R&D,Software Engineering,L3 Veteran,United States,Voluntary,Non-regrettable,Unknown,FTE
+Employee 1246,Terminated,Employe 2246,2023-09-05,2025-03-06,R&D,Data Platform Engineering,L4 Early,Canada,Voluntary,Non-Regrettable,Unknown,FTE
+Employee 1250,Terminated,Employe 2250,2025-01-21,2025-03-21,R&D,Software Engineering,L3,Brazil,Voluntary,Regrettable,Career opportunity,FTE
+Employee 1251,Terminated,Employe 2251,2021-08-02,2025-04-02,Operations,Finance,M6 Early,United States,Voluntary,Non-Regrettable,Career opportunity,FTE
+Employee 1258,Terminated,Employe 2258,2024-06-10,2025-05-06,R&D,Software Engineering,L5 Early,United States,Voluntary,Non-regrettable,Unknown,FTE
+Employee 1268,Terminated,Employe 2268,2023-07-03,2025-06-02,R&D,Data Product Engineering,L4 Veteran,United States,Voluntary,Non-regrettable,WLB,FTE
+Employee 1269,Terminated,Employe 2269,2025-02-03,2025-05-30,R&D,Product Engineering,L5 Seasoned,Brazil,Voluntary,Non-regrettable,Unknown,FTE
+Employee 1271,Terminated,Employe 2271,2023-01-09,2025-05-30,R&D,Engineering,M6 Seasoned,United States,Voluntary,Non-regrettable,Unknown,FTE
+Employee 1277,Terminated,Employe 2277,2024-04-01,2025-06-27,R&D,Data Product Engineering,L4 Seasoned,United States,Voluntary,Regrettable,Unknown,FTE
+Employee 1286,Terminated,Employe 2286,2025-04-14,2025-07-25,R&D,Product Engineering,L3 Veteran,Brazil,Voluntary,Regrettable,Culture,FTE
